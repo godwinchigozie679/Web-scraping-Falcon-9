@@ -1,0 +1,2602 @@
+Flight No.,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Version Booster,Booster landing,Date,Time
+1,CCAFS,Dragon Spacecraft Qualification Unit,0,LEO,SpaceX,"Success
+",F9 v1.1,Failure,4 June 2010,18:45
+2,CCAFS,Dragon,0,LEO,NASA,Success,F9 v1.1,Failure,8 December 2010,15:43
+3,CCAFS,Dragon,525 kg,LEO,NASA,Success,F9 v1.1,"No attempt
+",22 May 2012,07:44
+4,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,NASA,"Success
+",F9 v1.1,No attempt,8 October 2012,00:35
+5,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,NASA,"Success
+",F9 v1.1,"No attempt
+",1 March 2013,15:10
+6,VAFB,CASSIOPE,500 kg,Polar orbit,MDA,Success,F9 v1.1,Uncontrolled,29 September 2013,16:00
+7,CCAFS,SES-8,"3,170 kg",GTO,SES,Success,F9 v1.1,No attempt,3 December 2013,22:41
+8,CCAFS,Thaicom 6,"3,325 kg",GTO,Thaicom,Success,F9 v1.1,No attempt,6 January 2014,22:06
+9,Cape Canaveral,SpaceX CRS-3,"2,296 kg",LEO,NASA,"Success
+",F9 v1.1,Controlled,18 April 2014,19:25
+10,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,Orbcomm,Success,F9 v1.1,Controlled,14 July 2014,15:15
+11,Cape Canaveral,AsiaSat 8,"4,535 kg",GTO,AsiaSat,Success,F9 v1.1,No attempt,5 August 2014,08:00
+12,Cape Canaveral,AsiaSat 6,"4,428 kg",GTO,AsiaSat,Success,F9 v1.1,"No attempt
+",7 September 2014,05:00
+13,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,NASA,Success,F9 v1.1,Uncontrolled,21 September 2014,05:52
+14,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,NASA,Success,F9 v1.1,Failure ,10 January 2015,09:47
+15,Cape Canaveral,DSCOVR,570 kg,HEO,USAF,"Success
+",F9 v1.1,Controlled,11 February 2015,23:03
+16,Cape Canaveral,ABS-3A,"4,159 kg",GTO,ABS,"Success
+",F9 v1.1,No attempt,2 March 2015,03:50
+17,Cape Canaveral,SpaceX CRS-6,"1,898 kg",LEO,NASA,"Success
+",F9 v1.1,Failure,14 April 2015,20:10
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,,"Success
+",F9 v1.1,No attempt,27 April 2015,23:03
+19,Cape Canaveral,SpaceX CRS-7,"1,952 kg",LEO,NASA,Failure,F9 v1.1,Precluded,28 June 2015,14:21
+20,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,Orbcomm,"Success
+",F9 v1.1,Success,22 December 2015,01:29
+21,VAFB,Jason-3,553 kg,LEO,NASA,"Success
+",F9 v1.1,Failure,17 January 2016,18:42
+22,Cape Canaveral,SES-9,"5,271 kg",GTO,SES,"Success
+",F9 v1.1,Failure,4 March 2016,23:35
+23,Cape Canaveral,SpaceX CRS-8,"3,136 kg",LEO,NASA,Success,F9 v1.1,Success,8 April 2016,20:43
+24,Cape Canaveral,JCSAT-14,"4,696 kg",GTO,SKY Perfect JSAT Group,"Success
+",F9 v1.1,Success,6 May 2016,05:21
+25,Cape Canaveral,Thaicom 8,"3,100 kg",GTO,Thaicom,"Success
+",F9 v1.1,Success,27 May 2016,21:39
+26,Cape Canaveral,ABS-2A,"3,600 kg",GTO,ABS,"Success
+",F9 v1.1,Failure,15 June 2016,14:29
+27,Cape Canaveral,SpaceX CRS-9,"2,257 kg",LEO,NASA,"Success
+",F9 v1.1,Success,18 July 2016,04:45
+28,Cape Canaveral,JCSAT-16,"4,600 kg",GTO,SKY Perfect JSAT Group,"Success
+",F9 v1.1,Success,14 August 2016,05:26
+29,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,"Success
+",F9 v1.1,Success,14 January 2017,17:54
+30,KSC,SpaceX CRS-10,"2,490 kg",LEO,NASA,"Success
+",F9 v1.1,Success,19 February 2017,14:39
+31,KSC,EchoStar 23,"5,600 kg",GTO,EchoStar,"Success
+",F9 v1.1,No attempt,16 March 2017,06:00
+32,KSC,SES-10,"5,300 kg",GTO,SES,Success,F9 v1.1,Success,30 March 2017,22:27
+33,KSC,NROL-76,C,LEO,NRO,"Success
+",F9 v1.1,Success,1 May 2017,11:15
+34,KSC,Inmarsat-5 F4,"6,070 kg",GTO,Inmarsat,"Success
+",F9 v1.1,No attempt,15 May 2017,23:21
+35,KSC,SpaceX CRS-11,"2,708 kg",LEO,NASA,"Success
+",F9 v1.1,Success,3 June 2017,21:07
+36,KSC,BulgariaSat-1,"3,669 kg",GTO,Bulsatcom,"Success
+",F9 v1.1,Success,23 June 2017,19:10
+37,VAFB,Iridium NEXT,"9,600 kg",LEO,Iridium Communications,"Success
+",F9 v1.1,Success,25 June 2017,20:25
+38,KSC,Intelsat 35e,"6,761 kg",GTO,Intelsat,"Success
+",F9 v1.1,No attempt,5 July 2017,23:38
+39,KSC,SpaceX CRS-12,"3,310 kg",LEO,NASA,"Success
+",F9 v1.1,Success,14 August 2017,16:31
+40,VAFB,Formosat-5,475 kg,SSO,NSPO,"Success
+",F9 v1.1,Success,24 August 2017,18:51
+41,KSC,Boeing X-37B,"4,990 kg",LEO,USAF,"Success
+",F9 v1.1,Success,7 September 2017,14:00
+42,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,"Success
+",F9 v1.1,Success,9 October 2017,12:37
+43,KSC,SES-11,"5,200 kg",GTO,SES S.A.,"Success
+",F9 v1.1,Success,11 October 2017,22:53:00
+44,KSC,Koreasat 5A,"3,500 kg",GTO,KT Corporation,"Success
+",F9 v1.1,Success,30 October 2017,19:34
+45,Cape Canaveral,SpaceX CRS-13,"2,205 kg",LEO,NASA,"Success
+",F9 v1.1,Success,15 December 2017,15:36
+46,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,Success,F9 v1.1,Controlled,23 December 2017,01:27
+47,CCAFS,Zuma,C,LEO,Northrop Grumman,Success,F9 v1.1,Success,8 January 2018,01:00
+48,CCAFS,GovSat-1,"4,230 kg",GTO,SES,Success,F9 v1.1,Controlled,31 January 2018,21:25
+49,VAFB,Paz,"2,150 kg",SSO,Hisdesat,Success,F9 v1.1,No attempt,22 February 2018,14:17
+50,CCAFS,Hispasat 30W-6,"6,092 kg",GTO,Hispasat,Success,F9 v1.1,No attempt,6 March 2018,05:33
+51,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,Success,F9 v1.1,No attempt,30 March 2018,14:14
+52,CCAFS,SpaceX CRS-14,"2,647 kg",LEO,NASA,Success,F9 v1.1,No attempt,2 April 2018,20:30
+53,CCAFS,Transiting Exoplanet Survey Satellite,362 kg,HEO,NASA,Success,F9 v1.1,Success,18 April 2018,22:51
+54,KSC,Bangabandhu-1,"3,600 kg",GTO,Thales-Alenia,Success,F9 v1.1,Success,11 May 2018,20:14
+55,VAFB,Iridium NEXT,"6,460 kg",Polar,Iridium Communications,Success,F9 v1.1,No attempt,22 May 2018,19:47
+56,CCAFS,SES-12,"5,384 kg",GTO,SES,Success,F9 v1.1,No attempt,4 June 2018,04:45
+57,CCAFS,SpaceX CRS-15,"2,697 kg",LEO,NASA,Success,F9 v1.1,No attempt,29 June 2018,09:42
+58,CCAFS,Telstar 19V,"7,075 kg",GTO,Telesat,Success,F9 v1.1,Success,22 July 2018,05:50
+59,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,Success,F9 v1.1,Success,25 July 2018,11:39
+60,CCAFS,Merah Putih,"5,800 kg",GTO,Telkom Indonesia,Success,F9 v1.1,Success,7 August 2018,05:18
+61,CCAFS,Telstar 18V,"7,060 kg",GTO,Telesat,Success,F9 v1.1,Success,10 September 2018,04:45
+62,VAFB,SAOCOM 1A,"3,000 kg",SSO,CONAE,Success,F9 v1.1,Success,8 October 2018,02:22
+63,KSC,Es'hail 2,"5,300 kg",GTO,Es'hailSat,Success,F9 v1.1,Success,15 November 2018,20:46
+64,VAFB,SSO-A,"~4,000 kg",SSO,Spaceflight Industries,Success,F9 v1.1,Success,3 December 2018,18:34:05
+65,CCAFS,SpaceX CRS-16,"2,500 kg",LEO,NASA,"Success
+",F9 v1.1,Failure,5 December 2018,18:16
+66,CCAFS,GPS III,"4,400 kg",MEO,USAF,Success,F9 v1.1,No attempt,23 December 2018,13:51
+67,VAFB,Iridium NEXT,"9,600 kg",Polar,Iridium Communications,"Success
+",F9 v1.1,Success,11 January 2019,15:31
+68,CCAFS,Nusantara Satu,"4,850 kg",GTO,PSN,"Success
+",F9 v1.1,Success,22 February 2019,01:45
+69,KSC,Crew Dragon Demo-1,"12,055 kg",LEO,NASA,"Success
+",F9 v1.1,Success,2 March 2019,07:49
+70,CCAFS,SpaceX CRS-17,"2,495 kg",LEO,NASA,"Success
+",F9 v1.1,Success,4 May 2019,06:48
+71,CCAFS,Starlink,"13,620 kg",LEO,SpaceX,"Success
+",,Success,24 May 2019,02:30
+72,VAFB,RADARSAT Constellation,"4,200 kg",SSO,Canadian Space Agency,"Success
+",,Success,12 June 2019,14:17
+73,CCAFS,SpaceX CRS-18,"2,268 kg",LEO,NASA,"Success
+",,Success,25 July 2019,22:01
+74,CCAFS,AMOS-17,"6,500 kg",GTO,Spacecom,"Success
+",,No attempt,6 August 2019,23:23
+75,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,11 November 2019,14:56
+76,CCAFS,SpaceX CRS-19,"2,617 kg",LEO,NASA,"Success
+",,Success,5 December 2019,17:29
+77,CCAFS,JCSat-18,"6,956 kg",GTO,Sky Perfect JSAT,"Success
+",,Success,17 December 2019,00:10
+78,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,7 January 2020,02:19:21
+79,KSC,Crew Dragon in-flight abort test,"12,050 kg",Sub-orbital,NASA,"Success
+",,"No attempt
+",19 January 2020,15:30
+80,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,29 January 2020,14:07
+81,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Failure,17 February 2020,15:05
+82,CCAFS,SpaceX CRS-20,"1,977 kg",LEO,NASA,"Success
+",,Success,7 March 2020,04:50
+83,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Failure,18 March 2020,12:16
+84,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,22 April 2020,19:30
+85,KSC,Crew Dragon Demo-2,"12,530 kg",LEO,NASA,"Success
+",,Success,30 May 2020,19:22
+86,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,4 June 2020,01:25
+87,CCAFS,Starlink,"15,410 kg",LEO,SpaceX,"Success
+",,Success,13 June 2020,09:21
+88,CCAFS,GPS III,"4,311 kg",MEO,U.S. Space Force,"Success
+",,Success,30 June 2020,20:10:46
+89,CCAFS,ANASIS-II,"5,000–6,000 kg",GTO,Republic of Korea Army,"Success
+",,Success,20 July 2020,21:30
+90,KSC,Starlink,"14,932 kg",LEO,SpaceX,"Success
+",,Success,7 August 2020,05:12
+91,CCAFS,Starlink,"~15,440 kg",LEO,SpaceX,"Success
+",,Success,18 August 2020,14:31
+92,CCAFS,SAOCOM 1B,"3,130 kg",SSO,CONAE,"Success
+",,Success,30 August 2020,23:18
+93,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,3 September 2020,12:46:14
+94,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,6 October 2020,11:29:34
+95,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,18 October 2020,12:25:57
+96,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,24 October 2020,15:31:34
+97,CCAFS,GPS III,"4,311 kg",MEO,USSF,"Success
+",,Success,5 November 2020,23:24:23
+98,KSC,Crew-1,"~12,500 kg",LEO,NASA,"Success
+",,Success,16 November 2020,00:27
+99,VAFB,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,NASA,"Success
+",,Success,21 November 2020,17:17:08
+100,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,25 November 2020,02:13
+101,KSC,SpaceX CRS-21,"2,972 kg",LEO,NASA,"Success
+",,Success,6 December 2020,16:17:08
+102,CCSFS,SXM-7,"7,000 kg",GTO,Sirius XM,"Success
+",,Success,13 December 2020,17:30:00
+103,KSC,NROL-108,C,LEO,NRO,"Success
+",,Success,19 December 2020,14:00:00
+104,CCSFS,Türksat 5A,"3,500 kg",GTO,Türksat,"Success
+",,Success,8 January 2021,02:15
+105,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,20 January 2021,13:02
+106,CCSFS,Transporter-1,"~5,000 kg",SSO,SpaceX,"Success
+",,Failure,24 January 2021,15:00
+1,CCAFS,Dragon Spacecraft Qualification Unit,0,LEO,NASA,Success,,Failure,4 June 2010,18:45
+2,CCAFS,Dragon,0,LEO,NASA,Success,,"No attempt
+",8 December 2010,15:43
+3,CCAFS,Dragon,525 kg,LEO,NASA,"Success
+",,No attempt,22 May 2012,07:44
+4,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,NASA,"Success
+",,"No attempt
+",8 October 2012,00:35
+5,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,MDA,Success,,Uncontrolled,1 March 2013,15:10
+6,VAFB,CASSIOPE,500 kg,Polar orbit,SES,Success,,No attempt,29 September 2013,16:00
+7,CCAFS,SES-8,"3,170 kg",GTO,Thaicom,Success,,No attempt,3 December 2013,22:41
+8,CCAFS,Thaicom 6,"3,325 kg",GTO,NASA,"Success
+",,Controlled,6 January 2014,22:06
+9,Cape Canaveral,SpaceX CRS-3,"2,296 kg",LEO,Orbcomm,Success,,Controlled,18 April 2014,19:25
+10,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,AsiaSat,Success,,No attempt,14 July 2014,15:15
+11,Cape Canaveral,AsiaSat 8,"4,535 kg",GTO,AsiaSat,Success,,"No attempt
+",5 August 2014,08:00
+12,Cape Canaveral,AsiaSat 6,"4,428 kg",GTO,NASA,Success,,Uncontrolled,7 September 2014,05:00
+13,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,NASA,Success,,Failure ,21 September 2014,05:52
+14,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,USAF,"Success
+",,Controlled,10 January 2015,09:47
+15,Cape Canaveral,DSCOVR,570 kg,HEO,ABS,"Success
+",,No attempt,11 February 2015,23:03
+16,Cape Canaveral,ABS-3A,"4,159 kg",GTO,NASA,"Success
+",,Failure,2 March 2015,03:50
+17,Cape Canaveral,SpaceX CRS-6,"1,898 kg",LEO,,"Success
+",,No attempt,14 April 2015,20:10
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,NASA,Failure,,Precluded,27 April 2015,23:03
+19,Cape Canaveral,SpaceX CRS-7,"1,952 kg",LEO,Orbcomm,"Success
+",,Success,28 June 2015,14:21
+20,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,NASA,"Success
+",,Failure,22 December 2015,01:29
+21,VAFB,Jason-3,553 kg,LEO,SES,"Success
+",,Failure,17 January 2016,18:42
+22,Cape Canaveral,SES-9,"5,271 kg",GTO,NASA,Success,,Success,4 March 2016,23:35
+23,Cape Canaveral,SpaceX CRS-8,"3,136 kg",LEO,SKY Perfect JSAT Group,"Success
+",,Success,8 April 2016,20:43
+24,Cape Canaveral,JCSAT-14,"4,696 kg",GTO,Thaicom,"Success
+",,Success,6 May 2016,05:21
+25,Cape Canaveral,Thaicom 8,"3,100 kg",GTO,ABS,"Success
+",,Failure,27 May 2016,21:39
+26,Cape Canaveral,ABS-2A,"3,600 kg",GTO,NASA,"Success
+",,Success,15 June 2016,14:29
+27,Cape Canaveral,SpaceX CRS-9,"2,257 kg",LEO,SKY Perfect JSAT Group,"Success
+",,Success,18 July 2016,04:45
+28,Cape Canaveral,JCSAT-16,"4,600 kg",GTO,Iridium Communications,"Success
+",,Success,14 August 2016,05:26
+29,VAFB,Iridium NEXT,"9,600 kg",Polar,NASA,"Success
+",,Success,14 January 2017,17:54
+30,KSC,SpaceX CRS-10,"2,490 kg",LEO,EchoStar,"Success
+",,No attempt,19 February 2017,14:39
+31,KSC,EchoStar 23,"5,600 kg",GTO,SES,Success,,Success,16 March 2017,06:00
+32,KSC,SES-10,"5,300 kg",GTO,NRO,"Success
+",,Success,30 March 2017,22:27
+33,KSC,NROL-76,C,LEO,Inmarsat,"Success
+",,No attempt,1 May 2017,11:15
+34,KSC,Inmarsat-5 F4,"6,070 kg",GTO,NASA,"Success
+",,Success,15 May 2017,23:21
+35,KSC,SpaceX CRS-11,"2,708 kg",LEO,Bulsatcom,"Success
+",,Success,3 June 2017,21:07
+36,KSC,BulgariaSat-1,"3,669 kg",GTO,Iridium Communications,"Success
+",,Success,23 June 2017,19:10
+37,VAFB,Iridium NEXT,"9,600 kg",LEO,Intelsat,"Success
+",,No attempt,25 June 2017,20:25
+38,KSC,Intelsat 35e,"6,761 kg",GTO,NASA,"Success
+",,Success,5 July 2017,23:38
+39,KSC,SpaceX CRS-12,"3,310 kg",LEO,NSPO,"Success
+",,Success,14 August 2017,16:31
+40,VAFB,Formosat-5,475 kg,SSO,USAF,"Success
+",,Success,24 August 2017,18:51
+41,KSC,Boeing X-37B,"4,990 kg",LEO,Iridium Communications,"Success
+",,Success,7 September 2017,14:00
+42,VAFB,Iridium NEXT,"9,600 kg",Polar,SES S.A.,"Success
+",,Success,9 October 2017,12:37
+43,KSC,SES-11,"5,200 kg",GTO,KT Corporation,"Success
+",,Success,11 October 2017,22:53:00
+44,KSC,Koreasat 5A,"3,500 kg",GTO,NASA,"Success
+",,Success,30 October 2017,19:34
+45,Cape Canaveral,SpaceX CRS-13,"2,205 kg",LEO,Iridium Communications,Success,,Controlled,15 December 2017,15:36
+46,VAFB,Iridium NEXT,"9,600 kg",Polar,Northrop Grumman,Success,,Success,23 December 2017,01:27
+47,CCAFS,Zuma,C,LEO,SES,Success,,Controlled,8 January 2018,01:00
+48,CCAFS,GovSat-1,"4,230 kg",GTO,Hisdesat,Success,,No attempt,31 January 2018,21:25
+49,VAFB,Paz,"2,150 kg",SSO,Hispasat,Success,,No attempt,22 February 2018,14:17
+50,CCAFS,Hispasat 30W-6,"6,092 kg",GTO,Iridium Communications,Success,,No attempt,6 March 2018,05:33
+51,VAFB,Iridium NEXT,"9,600 kg",Polar,NASA,Success,,No attempt,30 March 2018,14:14
+52,CCAFS,SpaceX CRS-14,"2,647 kg",LEO,NASA,Success,,Success,2 April 2018,20:30
+53,CCAFS,Transiting Exoplanet Survey Satellite,362 kg,HEO,Thales-Alenia,Success,,Success,18 April 2018,22:51
+54,KSC,Bangabandhu-1,"3,600 kg",GTO,Iridium Communications,Success,,No attempt,11 May 2018,20:14
+55,VAFB,Iridium NEXT,"6,460 kg",Polar,SES,Success,,No attempt,22 May 2018,19:47
+56,CCAFS,SES-12,"5,384 kg",GTO,NASA,Success,,No attempt,4 June 2018,04:45
+57,CCAFS,SpaceX CRS-15,"2,697 kg",LEO,Telesat,Success,,Success,29 June 2018,09:42
+58,CCAFS,Telstar 19V,"7,075 kg",GTO,Iridium Communications,Success,,Success,22 July 2018,05:50
+59,VAFB,Iridium NEXT,"9,600 kg",Polar,Telkom Indonesia,Success,,Success,25 July 2018,11:39
+60,CCAFS,Merah Putih,"5,800 kg",GTO,Telesat,Success,,Success,7 August 2018,05:18
+61,CCAFS,Telstar 18V,"7,060 kg",GTO,CONAE,Success,,Success,10 September 2018,04:45
+62,VAFB,SAOCOM 1A,"3,000 kg",SSO,Es'hailSat,Success,,Success,8 October 2018,02:22
+63,KSC,Es'hail 2,"5,300 kg",GTO,Spaceflight Industries,Success,,Success,15 November 2018,20:46
+64,VAFB,SSO-A,"~4,000 kg",SSO,NASA,"Success
+",,Failure,3 December 2018,18:34:05
+65,CCAFS,SpaceX CRS-16,"2,500 kg",LEO,USAF,Success,,No attempt,5 December 2018,18:16
+66,CCAFS,GPS III,"4,400 kg",MEO,Iridium Communications,"Success
+",,Success,23 December 2018,13:51
+67,VAFB,Iridium NEXT,"9,600 kg",Polar,PSN,"Success
+",,Success,11 January 2019,15:31
+68,CCAFS,Nusantara Satu,"4,850 kg",GTO,NASA,"Success
+",,Success,22 February 2019,01:45
+69,KSC,Crew Dragon Demo-1,"12,055 kg",LEO,NASA,"Success
+",,Success,2 March 2019,07:49
+70,CCAFS,SpaceX CRS-17,"2,495 kg",LEO,SpaceX,"Success
+",,Success,4 May 2019,06:48
+71,CCAFS,Starlink,"13,620 kg",LEO,Canadian Space Agency,"Success
+",,Success,24 May 2019,02:30
+72,VAFB,RADARSAT Constellation,"4,200 kg",SSO,NASA,"Success
+",,Success,12 June 2019,14:17
+73,CCAFS,SpaceX CRS-18,"2,268 kg",LEO,Spacecom,"Success
+",,No attempt,25 July 2019,22:01
+74,CCAFS,AMOS-17,"6,500 kg",GTO,SpaceX,"Success
+",,Success,6 August 2019,23:23
+75,CCAFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,11 November 2019,14:56
+76,CCAFS,SpaceX CRS-19,"2,617 kg",LEO,Sky Perfect JSAT,"Success
+",,Success,5 December 2019,17:29
+77,CCAFS,JCSat-18,"6,956 kg",GTO,SpaceX,"Success
+",,Success,17 December 2019,00:10
+78,CCAFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,"No attempt
+",7 January 2020,02:19:21
+79,KSC,Crew Dragon in-flight abort test,"12,050 kg",Sub-orbital,SpaceX,"Success
+",,Success,19 January 2020,15:30
+80,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Failure,29 January 2020,14:07
+81,CCAFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,17 February 2020,15:05
+82,CCAFS,SpaceX CRS-20,"1,977 kg",LEO,SpaceX,"Success
+",,Failure,7 March 2020,04:50
+83,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,18 March 2020,12:16
+84,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,22 April 2020,19:30
+85,KSC,Crew Dragon Demo-2,"12,530 kg",LEO,SpaceX,"Success
+",,Success,30 May 2020,19:22
+86,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,4 June 2020,01:25
+87,CCAFS,Starlink,"15,410 kg",LEO,U.S. Space Force,"Success
+",,Success,13 June 2020,09:21
+88,CCAFS,GPS III,"4,311 kg",MEO,Republic of Korea Army,"Success
+",,Success,30 June 2020,20:10:46
+89,CCAFS,ANASIS-II,"5,000–6,000 kg",GTO,SpaceX,"Success
+",,Success,20 July 2020,21:30
+90,KSC,Starlink,"14,932 kg",LEO,SpaceX,"Success
+",,Success,7 August 2020,05:12
+91,CCAFS,Starlink,"~15,440 kg",LEO,CONAE,"Success
+",,Success,18 August 2020,14:31
+92,CCAFS,SAOCOM 1B,"3,130 kg",SSO,SpaceX,"Success
+",,Success,30 August 2020,23:18
+93,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,3 September 2020,12:46:14
+94,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,6 October 2020,11:29:34
+95,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,18 October 2020,12:25:57
+96,CCAFS,Starlink,"15,600 kg",LEO,USSF,"Success
+",,Success,24 October 2020,15:31:34
+97,CCAFS,GPS III,"4,311 kg",MEO,NASA,"Success
+",,Success,5 November 2020,23:24:23
+98,KSC,Crew-1,"~12,500 kg",LEO,NASA,"Success
+",,Success,16 November 2020,00:27
+99,VAFB,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,SpaceX,"Success
+",,Success,21 November 2020,17:17:08
+100,CCAFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,25 November 2020,02:13
+101,KSC,SpaceX CRS-21,"2,972 kg",LEO,Sirius XM,"Success
+",,Success,6 December 2020,16:17:08
+102,CCSFS,SXM-7,"7,000 kg",GTO,NRO,"Success
+",,Success,13 December 2020,17:30:00
+103,KSC,NROL-108,C,LEO,Türksat,"Success
+",,Success,19 December 2020,14:00:00
+104,CCSFS,Türksat 5A,"3,500 kg",GTO,SpaceX,"Success
+",,Success,8 January 2021,02:15
+105,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,20 January 2021,13:02
+106,CCSFS,Transporter-1,"~5,000 kg",SSO,NASA,Success,,Success,24 January 2021,15:00
+1,CCAFS,Dragon Spacecraft Qualification Unit,0,LEO,NASA,Success,,Failure,4 June 2010,18:45
+2,CCAFS,Dragon,0,LEO,NASA,"Success
+",,Success,8 December 2010,15:43
+3,CCAFS,Dragon,525 kg,LEO,NASA,"Success
+",,Success,22 May 2012,07:44
+4,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,MDA,Success,,Success,8 October 2012,00:35
+5,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,SES,Success,,Success,1 March 2013,15:10
+6,CCAFS,CASSIOPE,500 kg,Polar orbit,Thaicom,Success,,Success,29 September 2013,16:00
+7,VAFB,SES-8,"3,170 kg",GTO,NASA,"Success
+",,Success,3 December 2013,22:41
+8,CCAFS,Thaicom 6,"3,325 kg",GTO,Orbcomm,Success,,Success,6 January 2014,22:06
+9,CCAFS,SpaceX CRS-3,"2,296 kg",LEO,AsiaSat,Success,,Success,18 April 2014,19:25
+10,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,AsiaSat,Success,,Success,14 July 2014,15:15
+11,Cape Canaveral,AsiaSat 8,"4,535 kg",GTO,NASA,Success,,Success,5 August 2014,08:00
+12,Cape Canaveral,AsiaSat 6,"4,428 kg",GTO,NASA,Success,,Success,7 September 2014,05:00
+13,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,USAF,"Success
+",,Success,21 September 2014,05:52
+14,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,ABS,"Success
+",,Success,10 January 2015,09:47
+15,Cape Canaveral,DSCOVR,570 kg,HEO,NASA,"Success
+",,Failure,11 February 2015,23:03
+16,Cape Canaveral,ABS-3A,"4,159 kg",GTO,,"Success
+",,Failure,2 March 2015,03:50
+17,Cape Canaveral,SpaceX CRS-6,"1,898 kg",LEO,NASA,Failure,,"No attempt
+",14 April 2015,20:10
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,Orbcomm,"Success
+",,No attempt,27 April 2015,23:03
+19,Cape Canaveral,SpaceX CRS-7,"1,952 kg",LEO,NASA,"Success
+",,"No attempt
+",28 June 2015,14:21
+20,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,SES,"Success
+",,Uncontrolled,22 December 2015,01:29
+21,Cape Canaveral,Jason-3,553 kg,LEO,NASA,Success,,No attempt,17 January 2016,18:42
+22,VAFB,SES-9,"5,271 kg",GTO,SKY Perfect JSAT Group,"Success
+",,No attempt,4 March 2016,23:35
+23,Cape Canaveral,SpaceX CRS-8,"3,136 kg",LEO,Thaicom,"Success
+",,Controlled,8 April 2016,20:43
+24,Cape Canaveral,JCSAT-14,"4,696 kg",GTO,ABS,"Success
+",,Controlled,6 May 2016,05:21
+25,Cape Canaveral,Thaicom 8,"3,100 kg",GTO,NASA,"Success
+",,No attempt,27 May 2016,21:39
+26,Cape Canaveral,ABS-2A,"3,600 kg",GTO,SKY Perfect JSAT Group,"Success
+",,"No attempt
+",15 June 2016,14:29
+27,Cape Canaveral,SpaceX CRS-9,"2,257 kg",LEO,Iridium Communications,"Success
+",,Uncontrolled,18 July 2016,04:45
+28,Cape Canaveral,JCSAT-16,"4,600 kg",GTO,NASA,"Success
+",,Failure ,14 August 2016,05:26
+29,Cape Canaveral,Iridium NEXT,"9,600 kg",Polar,EchoStar,"Success
+",,Controlled,14 January 2017,17:54
+30,VAFB,SpaceX CRS-10,"2,490 kg",LEO,SES,Success,,No attempt,19 February 2017,14:39
+31,KSC,EchoStar 23,"5,600 kg",GTO,NRO,"Success
+",,Failure,16 March 2017,06:00
+32,KSC,SES-10,"5,300 kg",GTO,Inmarsat,"Success
+",,No attempt,30 March 2017,22:27
+33,KSC,NROL-76,C,LEO,NASA,"Success
+",,Precluded,1 May 2017,11:15
+34,KSC,Inmarsat-5 F4,"6,070 kg",GTO,Bulsatcom,"Success
+",,Success,15 May 2017,23:21
+35,KSC,SpaceX CRS-11,"2,708 kg",LEO,Iridium Communications,"Success
+",,Failure,3 June 2017,21:07
+36,KSC,BulgariaSat-1,"3,669 kg",GTO,Intelsat,"Success
+",,Failure,23 June 2017,19:10
+37,KSC,Iridium NEXT,"9,600 kg",LEO,NASA,"Success
+",,Success,25 June 2017,20:25
+38,VAFB,Intelsat 35e,"6,761 kg",GTO,NSPO,"Success
+",,Success,5 July 2017,23:38
+39,KSC,SpaceX CRS-12,"3,310 kg",LEO,USAF,"Success
+",,Success,14 August 2017,16:31
+40,KSC,Formosat-5,475 kg,SSO,Iridium Communications,"Success
+",,Failure,24 August 2017,18:51
+41,VAFB,Boeing X-37B,"4,990 kg",LEO,SES S.A.,"Success
+",,Success,7 September 2017,14:00
+42,KSC,Iridium NEXT,"9,600 kg",Polar,KT Corporation,"Success
+",,Success,9 October 2017,12:37
+43,VAFB,SES-11,"5,200 kg",GTO,NASA,"Success
+",,Success,11 October 2017,22:53:00
+44,KSC,Koreasat 5A,"3,500 kg",GTO,Iridium Communications,Success,,Success,30 October 2017,19:34
+45,KSC,SpaceX CRS-13,"2,205 kg",LEO,Northrop Grumman,Success,,No attempt,15 December 2017,15:36
+46,Cape Canaveral,Iridium NEXT,"9,600 kg",Polar,SES,Success,,Success,23 December 2017,01:27
+47,VAFB,Zuma,C,LEO,Hisdesat,Success,,Success,8 January 2018,01:00
+48,CCAFS,GovSat-1,"4,230 kg",GTO,Hispasat,Success,,No attempt,31 January 2018,21:25
+49,CCAFS,Paz,"2,150 kg",SSO,Iridium Communications,Success,,Success,22 February 2018,14:17
+50,VAFB,Hispasat 30W-6,"6,092 kg",GTO,NASA,Success,,Success,6 March 2018,05:33
+51,CCAFS,Iridium NEXT,"9,600 kg",Polar,NASA,Success,,Success,30 March 2018,14:14
+52,VAFB,SpaceX CRS-14,"2,647 kg",LEO,Thales-Alenia,Success,,No attempt,2 April 2018,20:30
+53,CCAFS,Transiting Exoplanet Survey Satellite,362 kg,HEO,Iridium Communications,Success,,Success,18 April 2018,22:51
+54,CCAFS,Bangabandhu-1,"3,600 kg",GTO,SES,Success,,Success,11 May 2018,20:14
+55,KSC,Iridium NEXT,"6,460 kg",Polar,NASA,Success,,Success,22 May 2018,19:47
+56,VAFB,SES-12,"5,384 kg",GTO,Telesat,Success,,Success,4 June 2018,04:45
+57,CCAFS,SpaceX CRS-15,"2,697 kg",LEO,Iridium Communications,Success,,Success,29 June 2018,09:42
+58,CCAFS,Telstar 19V,"7,075 kg",GTO,Telkom Indonesia,Success,,Success,22 July 2018,05:50
+59,CCAFS,Iridium NEXT,"9,600 kg",Polar,Telesat,Success,,Success,25 July 2018,11:39
+60,VAFB,Merah Putih,"5,800 kg",GTO,CONAE,Success,,Controlled,7 August 2018,05:18
+61,CCAFS,Telstar 18V,"7,060 kg",GTO,Es'hailSat,Success,,Success,10 September 2018,04:45
+62,CCAFS,SAOCOM 1A,"3,000 kg",SSO,Spaceflight Industries,Success,,Controlled,8 October 2018,02:22
+63,VAFB,Es'hail 2,"5,300 kg",GTO,NASA,"Success
+",,No attempt,15 November 2018,20:46
+64,KSC,SSO-A,"~4,000 kg",SSO,USAF,Success,,No attempt,3 December 2018,18:34:05
+65,VAFB,SpaceX CRS-16,"2,500 kg",LEO,Iridium Communications,"Success
+",,No attempt,5 December 2018,18:16
+66,CCAFS,GPS III,"4,400 kg",MEO,PSN,"Success
+",,No attempt,23 December 2018,13:51
+67,CCAFS,Iridium NEXT,"9,600 kg",Polar,NASA,"Success
+",,Success,11 January 2019,15:31
+68,VAFB,Nusantara Satu,"4,850 kg",GTO,NASA,"Success
+",,Success,22 February 2019,01:45
+69,CCAFS,Crew Dragon Demo-1,"12,055 kg",LEO,SpaceX,"Success
+",,No attempt,2 March 2019,07:49
+70,KSC,SpaceX CRS-17,"2,495 kg",LEO,Canadian Space Agency,"Success
+",,No attempt,4 May 2019,06:48
+71,CCAFS,Starlink,"13,620 kg",LEO,NASA,"Success
+",,No attempt,24 May 2019,02:30
+72,CCAFS,RADARSAT Constellation,"4,200 kg",SSO,Spacecom,"Success
+",,Success,12 June 2019,14:17
+73,VAFB,SpaceX CRS-18,"2,268 kg",LEO,SpaceX,"Success
+",,Success,25 July 2019,22:01
+74,CCAFS,AMOS-17,"6,500 kg",GTO,NASA,"Success
+",,Success,6 August 2019,23:23
+75,CCAFS,Starlink,"15,600 kg",LEO,Sky Perfect JSAT,"Success
+",,Success,11 November 2019,14:56
+76,CCAFS,SpaceX CRS-19,"2,617 kg",LEO,SpaceX,"Success
+",,Success,5 December 2019,17:29
+77,CCAFS,JCSat-18,"6,956 kg",GTO,NASA,"Success
+",,Success,17 December 2019,00:10
+78,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,7 January 2020,02:19:21
+79,CCAFS,Crew Dragon in-flight abort test,"12,050 kg",Sub-orbital,SpaceX,"Success
+",,Failure,19 January 2020,15:30
+80,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,No attempt,29 January 2020,14:07
+81,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,17 February 2020,15:05
+82,CCAFS,SpaceX CRS-20,"1,977 kg",LEO,SpaceX,"Success
+",,Success,7 March 2020,04:50
+83,CCAFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,18 March 2020,12:16
+84,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,22 April 2020,19:30
+85,KSC,Crew Dragon Demo-2,"12,530 kg",LEO,SpaceX,"Success
+",,Success,30 May 2020,19:22
+86,KSC,Starlink,"15,600 kg",LEO,U.S. Space Force,"Success
+",,Success,4 June 2020,01:25
+87,CCAFS,Starlink,"15,410 kg",LEO,Republic of Korea Army,"Success
+",,Success,13 June 2020,09:21
+88,CCAFS,GPS III,"4,311 kg",MEO,SpaceX,"Success
+",,No attempt,30 June 2020,20:10:46
+89,CCAFS,ANASIS-II,"5,000–6,000 kg",GTO,SpaceX,"Success
+",,Success,20 July 2020,21:30
+90,CCAFS,Starlink,"14,932 kg",LEO,CONAE,"Success
+",,Success,7 August 2020,05:12
+91,KSC,Starlink,"~15,440 kg",LEO,SpaceX,"Success
+",,Success,18 August 2020,14:31
+92,CCAFS,SAOCOM 1B,"3,130 kg",SSO,SpaceX,"Success
+",,Success,30 August 2020,23:18
+93,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,"No attempt
+",3 September 2020,12:46:14
+94,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,6 October 2020,11:29:34
+95,KSC,Starlink,"15,600 kg",LEO,USSF,"Success
+",,Failure,18 October 2020,12:25:57
+96,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,24 October 2020,15:31:34
+97,CCAFS,GPS III,"4,311 kg",MEO,NASA,"Success
+",,Failure,5 November 2020,23:24:23
+98,CCAFS,Crew-1,"~12,500 kg",LEO,SpaceX,"Success
+",,Success,16 November 2020,00:27
+99,KSC,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,NASA,"Success
+",,Success,21 November 2020,17:17:08
+100,VAFB,Starlink,"15,600 kg",LEO,Sirius XM,"Success
+",,Success,25 November 2020,02:13
+101,CCAFS,SpaceX CRS-21,"2,972 kg",LEO,NRO,"Success
+",,Success,6 December 2020,16:17:08
+102,KSC,SXM-7,"7,000 kg",GTO,Türksat,"Success
+",,Success,13 December 2020,17:30:00
+103,CCSFS,NROL-108,C,LEO,SpaceX,"Success
+",,Success,19 December 2020,14:00:00
+104,KSC,Türksat 5A,"3,500 kg",GTO,SpaceX,"Success
+",,Success,8 January 2021,02:15
+105,CCSFS,Starlink,"15,600 kg",LEO,NASA,Success,,Success,20 January 2021,13:02
+106,KSC,Transporter-1,"~5,000 kg",SSO,NASA,Success,,Success,24 January 2021,15:00
+1,CCSFS,Dragon Spacecraft Qualification Unit,0,LEO,NASA,"Success
+",,Success,4 June 2010,18:45
+2,CCAFS,Dragon,0,LEO,NASA,"Success
+",,Success,8 December 2010,15:43
+3,CCAFS,Dragon,525 kg,LEO,MDA,Success,,Success,22 May 2012,07:44
+4,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,SES,Success,,Success,8 October 2012,00:35
+5,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,Thaicom,Success,,Success,1 March 2013,15:10
+6,CCAFS,CASSIOPE,500 kg,Polar orbit,NASA,"Success
+",,Success,29 September 2013,16:00
+7,VAFB,SES-8,"3,170 kg",GTO,Orbcomm,Success,,Success,3 December 2013,22:41
+8,CCAFS,Thaicom 6,"3,325 kg",GTO,AsiaSat,Success,,Success,6 January 2014,22:06
+9,CCAFS,SpaceX CRS-3,"2,296 kg",LEO,AsiaSat,Success,,Success,18 April 2014,19:25
+10,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,NASA,Success,,Success,14 July 2014,15:15
+11,Cape Canaveral,AsiaSat 8,"4,535 kg",GTO,NASA,Success,,Success,5 August 2014,08:00
+12,Cape Canaveral,AsiaSat 6,"4,428 kg",GTO,USAF,"Success
+",,Success,7 September 2014,05:00
+13,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,ABS,"Success
+",,Success,21 September 2014,05:52
+14,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,NASA,"Success
+",,Failure,10 January 2015,09:47
+15,Cape Canaveral,DSCOVR,570 kg,HEO,,"Success
+",,Failure,11 February 2015,23:03
+16,Cape Canaveral,ABS-3A,"4,159 kg",GTO,NASA,Failure,,"No attempt
+",2 March 2015,03:50
+17,Cape Canaveral,SpaceX CRS-6,"1,898 kg",LEO,Orbcomm,"Success
+",,No attempt,14 April 2015,20:10
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,NASA,"Success
+",,"No attempt
+",27 April 2015,23:03
+19,Cape Canaveral,SpaceX CRS-7,"1,952 kg",LEO,SES,"Success
+",,Uncontrolled,28 June 2015,14:21
+20,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,NASA,Success,,No attempt,22 December 2015,01:29
+21,Cape Canaveral,Jason-3,553 kg,LEO,SKY Perfect JSAT Group,"Success
+",,No attempt,17 January 2016,18:42
+22,VAFB,SES-9,"5,271 kg",GTO,Thaicom,"Success
+",,Controlled,4 March 2016,23:35
+23,Cape Canaveral,SpaceX CRS-8,"3,136 kg",LEO,ABS,"Success
+",,Controlled,8 April 2016,20:43
+24,Cape Canaveral,JCSAT-14,"4,696 kg",GTO,NASA,"Success
+",,No attempt,6 May 2016,05:21
+25,Cape Canaveral,Thaicom 8,"3,100 kg",GTO,SKY Perfect JSAT Group,"Success
+",,"No attempt
+",27 May 2016,21:39
+26,Cape Canaveral,ABS-2A,"3,600 kg",GTO,Iridium Communications,"Success
+",,Uncontrolled,15 June 2016,14:29
+27,Cape Canaveral,SpaceX CRS-9,"2,257 kg",LEO,NASA,"Success
+",,Failure ,18 July 2016,04:45
+28,Cape Canaveral,JCSAT-16,"4,600 kg",GTO,EchoStar,"Success
+",,Controlled,14 August 2016,05:26
+29,Cape Canaveral,Iridium NEXT,"9,600 kg",Polar,SES,Success,,No attempt,14 January 2017,17:54
+30,VAFB,SpaceX CRS-10,"2,490 kg",LEO,NRO,"Success
+",,Failure,19 February 2017,14:39
+31,KSC,EchoStar 23,"5,600 kg",GTO,Inmarsat,"Success
+",,No attempt,16 March 2017,06:00
+32,KSC,SES-10,"5,300 kg",GTO,NASA,"Success
+",,Precluded,30 March 2017,22:27
+33,KSC,NROL-76,C,LEO,Bulsatcom,"Success
+",,Success,1 May 2017,11:15
+34,KSC,Inmarsat-5 F4,"6,070 kg",GTO,Iridium Communications,"Success
+",,Failure,15 May 2017,23:21
+35,KSC,SpaceX CRS-11,"2,708 kg",LEO,Intelsat,"Success
+",,Failure,3 June 2017,21:07
+36,KSC,BulgariaSat-1,"3,669 kg",GTO,NASA,"Success
+",,Success,23 June 2017,19:10
+37,KSC,Iridium NEXT,"9,600 kg",LEO,NSPO,"Success
+",,Success,25 June 2017,20:25
+38,VAFB,Intelsat 35e,"6,761 kg",GTO,USAF,"Success
+",,Success,5 July 2017,23:38
+39,KSC,SpaceX CRS-12,"3,310 kg",LEO,Iridium Communications,"Success
+",,Failure,14 August 2017,16:31
+40,KSC,Formosat-5,475 kg,SSO,SES S.A.,"Success
+",,Success,24 August 2017,18:51
+41,VAFB,Boeing X-37B,"4,990 kg",LEO,KT Corporation,"Success
+",,Success,7 September 2017,14:00
+42,KSC,Iridium NEXT,"9,600 kg",Polar,NASA,"Success
+",,Success,9 October 2017,12:37
+43,VAFB,SES-11,"5,200 kg",GTO,Iridium Communications,Success,,Success,11 October 2017,22:53:00
+44,KSC,Koreasat 5A,"3,500 kg",GTO,Northrop Grumman,Success,,No attempt,30 October 2017,19:34
+45,KSC,SpaceX CRS-13,"2,205 kg",LEO,SES,Success,,Success,15 December 2017,15:36
+46,Cape Canaveral,Iridium NEXT,"9,600 kg",Polar,Hisdesat,Success,,Success,23 December 2017,01:27
+47,VAFB,Zuma,C,LEO,Hispasat,Success,,No attempt,8 January 2018,01:00
+48,CCAFS,GovSat-1,"4,230 kg",GTO,Iridium Communications,Success,,Success,31 January 2018,21:25
+49,CCAFS,Paz,"2,150 kg",SSO,NASA,Success,,Success,22 February 2018,14:17
+50,VAFB,Hispasat 30W-6,"6,092 kg",GTO,NASA,Success,,Success,6 March 2018,05:33
+51,CCAFS,Iridium NEXT,"9,600 kg",Polar,Thales-Alenia,Success,,No attempt,30 March 2018,14:14
+52,VAFB,SpaceX CRS-14,"2,647 kg",LEO,Iridium Communications,Success,,Success,2 April 2018,20:30
+53,CCAFS,Transiting Exoplanet Survey Satellite,362 kg,HEO,SES,Success,,Success,18 April 2018,22:51
+54,CCAFS,Bangabandhu-1,"3,600 kg",GTO,NASA,Success,,Success,11 May 2018,20:14
+55,KSC,Iridium NEXT,"6,460 kg",Polar,Telesat,Success,,Success,22 May 2018,19:47
+56,VAFB,SES-12,"5,384 kg",GTO,Iridium Communications,Success,,Success,4 June 2018,04:45
+57,CCAFS,SpaceX CRS-15,"2,697 kg",LEO,Telkom Indonesia,Success,,Success,29 June 2018,09:42
+58,CCAFS,Telstar 19V,"7,075 kg",GTO,Telesat,Success,,Success,22 July 2018,05:50
+59,CCAFS,Iridium NEXT,"9,600 kg",Polar,CONAE,Success,,Controlled,25 July 2018,11:39
+60,VAFB,Merah Putih,"5,800 kg",GTO,Es'hailSat,Success,,Success,7 August 2018,05:18
+61,CCAFS,Telstar 18V,"7,060 kg",GTO,Spaceflight Industries,Success,,Controlled,10 September 2018,04:45
+62,CCAFS,SAOCOM 1A,"3,000 kg",SSO,NASA,"Success
+",,No attempt,8 October 2018,02:22
+63,VAFB,Es'hail 2,"5,300 kg",GTO,USAF,Success,,No attempt,15 November 2018,20:46
+64,KSC,SSO-A,"~4,000 kg",SSO,Iridium Communications,"Success
+",,No attempt,3 December 2018,18:34:05
+65,VAFB,SpaceX CRS-16,"2,500 kg",LEO,PSN,"Success
+",,No attempt,5 December 2018,18:16
+66,CCAFS,GPS III,"4,400 kg",MEO,NASA,"Success
+",,Success,23 December 2018,13:51
+67,CCAFS,Iridium NEXT,"9,600 kg",Polar,NASA,"Success
+",,Success,11 January 2019,15:31
+68,VAFB,Nusantara Satu,"4,850 kg",GTO,SpaceX,"Success
+",,No attempt,22 February 2019,01:45
+69,CCAFS,Crew Dragon Demo-1,"12,055 kg",LEO,Canadian Space Agency,"Success
+",,No attempt,2 March 2019,07:49
+70,KSC,SpaceX CRS-17,"2,495 kg",LEO,NASA,"Success
+",,No attempt,4 May 2019,06:48
+71,CCAFS,Starlink,"13,620 kg",LEO,Spacecom,"Success
+",,Success,24 May 2019,02:30
+72,CCAFS,RADARSAT Constellation,"4,200 kg",SSO,SpaceX,"Success
+",,Success,12 June 2019,14:17
+73,VAFB,SpaceX CRS-18,"2,268 kg",LEO,NASA,"Success
+",,Success,25 July 2019,22:01
+74,CCAFS,AMOS-17,"6,500 kg",GTO,Sky Perfect JSAT,"Success
+",,Success,6 August 2019,23:23
+75,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,11 November 2019,14:56
+76,CCAFS,SpaceX CRS-19,"2,617 kg",LEO,NASA,"Success
+",,Success,5 December 2019,17:29
+77,CCAFS,JCSat-18,"6,956 kg",GTO,SpaceX,"Success
+",,Success,17 December 2019,00:10
+78,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Failure,7 January 2020,02:19:21
+79,CCAFS,Crew Dragon in-flight abort test,"12,050 kg",Sub-orbital,NASA,"Success
+",,No attempt,19 January 2020,15:30
+80,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,29 January 2020,14:07
+81,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,17 February 2020,15:05
+82,CCAFS,SpaceX CRS-20,"1,977 kg",LEO,NASA,"Success
+",,Success,7 March 2020,04:50
+83,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,18 March 2020,12:16
+84,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,22 April 2020,19:30
+85,KSC,Crew Dragon Demo-2,"12,530 kg",LEO,U.S. Space Force,"Success
+",,Success,30 May 2020,19:22
+86,KSC,Starlink,"15,600 kg",LEO,Republic of Korea Army,"Success
+",,Success,4 June 2020,01:25
+87,CCAFS,Starlink,"15,410 kg",LEO,SpaceX,"Success
+",,No attempt,13 June 2020,09:21
+88,CCAFS,GPS III,"4,311 kg",MEO,SpaceX,"Success
+",,Success,30 June 2020,20:10:46
+89,CCAFS,ANASIS-II,"5,000–6,000 kg",GTO,CONAE,"Success
+",,Success,20 July 2020,21:30
+90,CCAFS,Starlink,"14,932 kg",LEO,SpaceX,"Success
+",,Success,7 August 2020,05:12
+91,KSC,Starlink,"~15,440 kg",LEO,SpaceX,"Success
+",,Success,18 August 2020,14:31
+92,CCAFS,SAOCOM 1B,"3,130 kg",SSO,SpaceX,"Success
+",,"No attempt
+",30 August 2020,23:18
+93,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,Success,3 September 2020,12:46:14
+94,KSC,Starlink,"15,600 kg",LEO,USSF,"Success
+",,Failure,6 October 2020,11:29:34
+95,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Success,18 October 2020,12:25:57
+96,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,Failure,24 October 2020,15:31:34
+97,CCAFS,GPS III,"4,311 kg",MEO,SpaceX,"Success
+",,Success,5 November 2020,23:24:23
+98,CCAFS,Crew-1,"~12,500 kg",LEO,NASA,"Success
+",,Success,16 November 2020,00:27
+99,KSC,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,Sirius XM,"Success
+",,Success,21 November 2020,17:17:08
+100,VAFB,Starlink,"15,600 kg",LEO,NRO,"Success
+",,Success,25 November 2020,02:13
+101,CCAFS,SpaceX CRS-21,"2,972 kg",LEO,Türksat,"Success
+",,Success,6 December 2020,16:17:08
+102,KSC,SXM-7,"7,000 kg",GTO,SpaceX,"Success
+",,Success,13 December 2020,17:30:00
+103,CCSFS,NROL-108,C,LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,19 December 2020,14:00:00
+104,KSC,Türksat 5A,"3,500 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,8 January 2021,02:15
+105,CCSFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,20 January 2021,13:02
+106,KSC,Transporter-1,"~5,000 kg",SSO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,24 January 2021,15:00
+1,CCSFS,Dragon Spacecraft Qualification Unit,0,LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,4 June 2010,18:45
+2,CCAFS,Dragon,0,LEO,"<a href=""/wiki/Maxar_Technologies"" title=""Maxar Technologies"">MDA</a>","Success
+",,Success,8 December 2010,18:45
+3,CCAFS,Dragon,525 kg,LEO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>","Success
+",,Success,22 May 2012,15:43
+4,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,"<a href=""/wiki/Thaicom"" title=""Thaicom"">Thaicom</a>","Success
+",,Success,8 October 2012,07:44
+5,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,1 March 2013,00:35
+6,CCAFS,CASSIOPE,500 kg,Polar orbit,"<a href=""/wiki/Orbcomm"" title=""Orbcomm"">Orbcomm</a>","Success
+",,Success,29 September 2013,15:10
+7,VAFB,SES-8,"3,170 kg",GTO,"<a href=""/wiki/AsiaSat"" title=""AsiaSat"">AsiaSat</a>","Success
+",,Success,3 December 2013,16:00
+8,CCAFS,Thaicom 6,"3,325 kg",GTO,"<a href=""/wiki/AsiaSat"" title=""AsiaSat"">AsiaSat</a>","Success
+",,Success,6 January 2014,22:41
+9,CCAFS,SpaceX CRS-3,"2,296 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,18 April 2014,22:06
+10,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,14 July 2014,19:25
+11,Cape Canaveral,AsiaSat 8,"4,535 kg",GTO,"<a href=""/wiki/United_States_Air_Force"" title=""United States Air Force"">USAF</a>","Success
+",,Success,5 August 2014,15:15
+12,Cape Canaveral,AsiaSat 6,"4,428 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/Asia_Broadcast_Satellite"" title=""Asia Broadcast Satellite"">ABS</a>","Success
+",,Success,7 September 2014,08:00
+13,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Failure,21 September 2014,05:00
+14,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,"<a href=""/wiki/Turkmenistan_National_Space_Agency"" title=""Turkmenistan National Space Agency"">Turkmenistan National<br/>Space Agency</a>",Success,,Failure,10 January 2015,05:52
+15,Cape Canaveral,DSCOVR,570 kg,HEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,"No attempt
+",11 February 2015,09:47
+16,Cape Canaveral,ABS-3A,"4,159 kg",GTO,"<a href=""/wiki/Orbcomm"" title=""Orbcomm"">Orbcomm</a>","Success
+",,No attempt,2 March 2015,23:03
+17,Cape Canaveral,SpaceX CRS-6,"1,898 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,"No attempt
+",14 April 2015,03:50
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>",Success,,Uncontrolled,27 April 2015,20:10
+19,Cape Canaveral,SpaceX CRS-7,"1,952 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,No attempt,28 June 2015,23:03
+20,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,"<a href=""/wiki/SKY_Perfect_JSAT"" title=""SKY Perfect JSAT"">SKY Perfect JSAT Group</a>",Success,,No attempt,22 December 2015,14:21
+21,Cape Canaveral,Jason-3,553 kg,LEO,"<a href=""/wiki/Thaicom"" title=""Thaicom"">Thaicom</a>","Success
+",,Controlled,17 January 2016,01:29
+22,VAFB,SES-9,"5,271 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/Asia_Broadcast_Satellite"" title=""Asia Broadcast Satellite"">ABS</a>",Success,,Controlled,4 March 2016,18:42
+23,Cape Canaveral,SpaceX CRS-8,"3,136 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,No attempt,8 April 2016,23:35
+24,Cape Canaveral,JCSAT-14,"4,696 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/SKY_Perfect_JSAT_Group"" title=""SKY Perfect JSAT Group"">SKY Perfect JSAT Group</a>",Success,,"No attempt
+",6 May 2016,20:43
+25,Cape Canaveral,Thaicom 8,"3,100 kg",GTO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",Success,,Uncontrolled,27 May 2016,05:21
+26,Cape Canaveral,ABS-2A,"3,600 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,Failure ,15 June 2016,21:39
+27,Cape Canaveral,SpaceX CRS-9,"2,257 kg",LEO,"<a href=""/wiki/EchoStar"" title=""EchoStar"">EchoStar</a>","Success
+",,Controlled,18 July 2016,14:29
+28,Cape Canaveral,JCSAT-16,"4,600 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>","Success
+",,No attempt,14 August 2016,04:45
+29,Cape Canaveral,Iridium NEXT,"9,600 kg",Polar,"<a href=""/wiki/National_Reconnaissance_Office"" title=""National Reconnaissance Office"">NRO</a>","Success
+",,Failure,14 January 2017,05:26
+30,VAFB,SpaceX CRS-10,"2,490 kg",LEO,"<a href=""/wiki/Inmarsat"" title=""Inmarsat"">Inmarsat</a>","Success
+",,No attempt,19 February 2017,17:54
+31,KSC,EchoStar 23,"5,600 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Failure,,Precluded,16 March 2017,14:39
+32,KSC,SES-10,"5,300 kg",GTO,"<a href=""/wiki/Bulsatcom"" title=""Bulsatcom"">Bulsatcom</a>","Success
+",,Success,30 March 2017,06:00
+33,KSC,NROL-76,C,LEO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>","Success
+",,Failure,1 May 2017,22:27
+34,KSC,Inmarsat-5 F4,"6,070 kg",GTO,"<a href=""/wiki/Intelsat"" title=""Intelsat"">Intelsat</a>","Success
+",,Failure,15 May 2017,11:15
+35,KSC,SpaceX CRS-11,"2,708 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,Success,3 June 2017,23:21
+36,KSC,BulgariaSat-1,"3,669 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/National_Space_Organization"" title=""National Space Organization"">NSPO</a>","Success
+",,Success,23 June 2017,21:07
+37,KSC,Iridium NEXT,"9,600 kg",LEO,"<a href=""/wiki/United_States_Air_Force"" title=""United States Air Force"">USAF</a>","Success
+",,Success,25 June 2017,19:10
+38,VAFB,Intelsat 35e,"6,761 kg",GTO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>","Success
+",,Failure,5 July 2017,20:25
+39,KSC,SpaceX CRS-12,"3,310 kg",LEO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES S.A.</a>","Success
+",,Success,14 August 2017,23:38
+40,KSC,Formosat-5,475 kg,SSO,"<a href=""/wiki/KT_Corporation"" title=""KT Corporation"">KT Corporation</a>","Success
+",,Success,24 August 2017,16:31
+41,VAFB,Boeing X-37B,"4,990 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,7 September 2017,18:51
+42,KSC,Iridium NEXT,"9,600 kg",Polar,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>","Success
+",,Success,9 October 2017,14:00
+43,VAFB,SES-11,"5,200 kg",GTO,"<a href=""/wiki/Northrop_Grumman"" title=""Northrop Grumman"">Northrop Grumman</a>","Success
+",,No attempt,11 October 2017,12:37
+44,KSC,Koreasat 5A,"3,500 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>",Success,,Success,30 October 2017,22:53:00
+45,KSC,SpaceX CRS-13,"2,205 kg",LEO,"<a href=""/wiki/Hisdesat"" title=""Hisdesat"">Hisdesat</a>","Success
+",,Success,15 December 2017,19:34
+46,Cape Canaveral,Iridium NEXT,"9,600 kg",Polar,"<a href=""/wiki/Hispasat"" title=""Hispasat"">Hispasat</a>","Success
+",,No attempt,23 December 2017,15:36
+47,VAFB,Zuma,C,LEO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>","Success
+",,Success,8 January 2018,01:27
+48,CCAFS,GovSat-1,"4,230 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,31 January 2018,01:00
+49,CCAFS,Paz,"2,150 kg",SSO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,22 February 2018,21:25
+50,VAFB,Hispasat 30W-6,"6,092 kg",GTO,"<a href=""/wiki/Thales_Alenia_Space"" title=""Thales Alenia Space"">Thales-Alenia</a>","Success
+",,No attempt,6 March 2018,14:17
+51,CCAFS,Iridium NEXT,"9,600 kg",Polar,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>","Success
+",,Success,30 March 2018,05:33
+52,VAFB,SpaceX CRS-14,"2,647 kg",LEO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>","Success
+",,Success,2 April 2018,14:14
+53,CCAFS,Transiting Exoplanet Survey Satellite,362 kg,HEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,18 April 2018,20:30
+54,CCAFS,Bangabandhu-1,"3,600 kg",GTO,"<a href=""/wiki/Telesat"" title=""Telesat"">Telesat</a>","Success
+",,Success,11 May 2018,22:51
+55,KSC,Iridium NEXT,"6,460 kg",Polar,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>","Success
+",,Success,22 May 2018,20:14
+56,VAFB,SES-12,"5,384 kg",GTO,"<a href=""/wiki/Telkom_Indonesia"" title=""Telkom Indonesia"">Telkom Indonesia</a>","Success
+",,Success,4 June 2018,19:47
+57,CCAFS,SpaceX CRS-15,"2,697 kg",LEO,"<a href=""/wiki/Telesat"" title=""Telesat"">Telesat</a>","Success
+",,Success,29 June 2018,04:45
+58,CCAFS,Telstar 19V,"7,075 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/Comisi%C3%B3n_Nacional_de_Actividades_Espaciales"" title=""Comisión Nacional de Actividades Espaciales"">CONAE</a>",Success,,Controlled,22 July 2018,09:42
+59,CCAFS,Iridium NEXT,"9,600 kg",Polar,"<a href=""/wiki/Es%27hailSat"" title=""Es'hailSat"">Es'hailSat</a>",Success,,Success,25 July 2018,05:50
+60,VAFB,Merah Putih,"5,800 kg",GTO,"<a href=""/wiki/Spaceflight_Industries"" title=""Spaceflight Industries"">Spaceflight Industries</a>",Success,,Controlled,7 August 2018,11:39
+61,CCAFS,Telstar 18V,"7,060 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,No attempt,10 September 2018,05:18
+62,CCAFS,SAOCOM 1A,"3,000 kg",SSO,"<a href=""/wiki/United_States_Air_Force"" title=""United States Air Force"">USAF</a>",Success,,No attempt,8 October 2018,04:45
+63,VAFB,Es'hail 2,"5,300 kg",GTO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",Success,,No attempt,15 November 2018,02:22
+64,KSC,SSO-A,"~4,000 kg",SSO,"<a href=""/wiki/PT_Pasifik_Satelit_Nusantara"" title=""PT Pasifik Satelit Nusantara"">PSN</a>",Success,,No attempt,3 December 2018,20:46
+65,VAFB,SpaceX CRS-16,"2,500 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,Success,5 December 2018,18:34:05
+66,CCAFS,GPS III,"4,400 kg",MEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,Success,23 December 2018,18:16
+67,CCAFS,Iridium NEXT,"9,600 kg",Polar,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",Success,,No attempt,11 January 2019,13:51
+68,VAFB,Nusantara Satu,"4,850 kg",GTO,"<a href=""/wiki/Canadian_Space_Agency"" title=""Canadian Space Agency"">Canadian Space Agency</a>",Success,,No attempt,22 February 2019,15:31
+69,CCAFS,Crew Dragon Demo-1,"12,055 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,No attempt,2 March 2019,01:45
+70,KSC,SpaceX CRS-17,"2,495 kg",LEO,"<a href=""/wiki/Spacecom"" title=""Spacecom"">Spacecom</a>",Success,,Success,4 May 2019,07:49
+71,CCAFS,Starlink,"13,620 kg",LEO,"<a href=""/wiki/Spacecom"" title=""Spacecom"">SpaceX</a>",Success,,Success,24 May 2019,06:48
+72,CCAFS,RADARSAT Constellation,"4,200 kg",SSO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,Success,12 June 2019,02:30
+73,VAFB,SpaceX CRS-18,"2,268 kg",LEO,"<a class=""mw-redirect"" href=""/wiki/SKY_Perfect_JSAT_Group"" title=""SKY Perfect JSAT Group"">Sky Perfect JSAT</a>",Success,,Success,25 July 2019,14:17
+74,CCAFS,AMOS-17,"6,500 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",Success,,Success,6 August 2019,22:01
+75,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,Success,11 November 2019,23:23
+76,CCAFS,SpaceX CRS-19,"2,617 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",Success,,Success,5 December 2019,14:56
+77,CCAFS,JCSat-18,"6,956 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Failure,17 December 2019,17:29
+78,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",Success,,No attempt,7 January 2020,00:10
+79,CCAFS,Crew Dragon in-flight abort test,"12,050 kg",Sub-orbital,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,19 January 2020,02:19:21
+80,KSC,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,29 January 2020,15:30
+81,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,17 February 2020,14:07
+82,CCAFS,SpaceX CRS-20,"1,977 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,7 March 2020,15:05
+83,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,18 March 2020,04:50
+84,KSC,Starlink,"15,600 kg",LEO,"<a href=""/wiki/United_States_Space_Force"" title=""United States Space Force"">U.S. Space Force</a>","Success
+",,Success,22 April 2020,12:16
+85,KSC,Crew Dragon Demo-2,"12,530 kg",LEO,"<a href=""/wiki/Republic_of_Korea_Army"" title=""Republic of Korea Army"">Republic of Korea Army</a>","Success
+",,Success,30 May 2020,19:30
+86,KSC,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,No attempt,4 June 2020,19:22
+87,CCAFS,Starlink,"15,410 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,13 June 2020,01:25
+88,CCAFS,GPS III,"4,311 kg",MEO,"<a class=""mw-redirect"" href=""/wiki/CONAE"" title=""CONAE"">CONAE</a>","Success
+",,Success,30 June 2020,09:21
+89,CCAFS,ANASIS-II,"5,000–6,000 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,20 July 2020,20:10:46
+90,CCAFS,Starlink,"14,932 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,7 August 2020,21:30
+91,KSC,Starlink,"~15,440 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,"No attempt
+",18 August 2020,05:12
+92,CCAFS,SAOCOM 1B,"3,130 kg",SSO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,30 August 2020,14:31
+93,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/United_States_Space_Force"" title=""United States Space Force"">USSF</a>","Success
+",,Failure,3 September 2020,23:18
+94,KSC,Starlink,"15,600 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,6 October 2020,12:46:14
+95,KSC,Starlink,"15,600 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Failure,18 October 2020,11:29:34
+96,KSC,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,24 October 2020,12:25:57
+97,CCAFS,GPS III,"4,311 kg",MEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,5 November 2020,15:31:34
+98,CCAFS,Crew-1,"~12,500 kg",LEO,"<a href=""/wiki/Sirius_XM"" title=""Sirius XM"">Sirius XM</a>","Success
+",,Success,16 November 2020,23:24:23
+99,KSC,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,"<a href=""/wiki/National_Reconnaissance_Office"" title=""National Reconnaissance Office"">NRO</a>","Success
+",,Success,21 November 2020,00:27
+100,VAFB,Starlink,"15,600 kg",LEO,"<a href=""/wiki/T%C3%BCrksat_(company)"" title=""Türksat (company)"">Türksat</a>","Success
+",,Success,25 November 2020,17:17:08
+101,CCAFS,SpaceX CRS-21,"2,972 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,6 December 2020,02:13
+102,KSC,SXM-7,"7,000 kg",GTO,,"Success
+",,Success,13 December 2020,16:17:08
+103,CCSFS,NROL-108,C,LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,19 December 2020,17:30:00
+104,KSC,Türksat 5A,"3,500 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,8 January 2021,14:00:00
+105,CCSFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,20 January 2021,02:15
+106,KSC,Transporter-1,"~5,000 kg",SSO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,24 January 2021,13:02
+1,CCSFS,Dragon Spacecraft Qualification Unit,0,LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,4 June 2010,15:00
+2,CCAFS,Dragon,0,LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,4 June 2010,18:45
+3,CCAFS,Dragon,525 kg,LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,8 December 2010,15:43
+4,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,22 May 2012,07:44
+5,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,8 October 2012,00:35
+6,CCAFS,CASSIOPE,500 kg,Polar orbit,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,1 March 2013,15:10
+7,VAFB,SES-8,"3,170 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,29 September 2013,16:00
+8,CCAFS,Thaicom 6,"3,325 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,3 December 2013,22:41
+9,CCAFS,SpaceX CRS-3,"2,296 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,Success,6 January 2014,22:06
+10,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,Success,18 April 2014,19:25
+11,Cape Canaveral,AsiaSat 8,"4,535 kg",GTO,"<a href=""/wiki/Sirius_XM"" title=""Sirius XM"">Sirius XM</a>","Success
+",,Success,14 July 2014,15:15
+12,Cape Canaveral,AsiaSat 6,"4,428 kg",GTO,SpaceX,"Success
+",,Success,5 August 2014,08:00
+13,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,NASA,Success,,Success,7 September 2014,05:00
+14,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,NASA,Success,,Failure,21 September 2014,05:52
+15,Cape Canaveral,DSCOVR,570 kg,HEO,NASA,"Success
+",,Success,10 January 2015,09:47
+16,Cape Canaveral,ABS-3A,"4,159 kg",GTO,NASA,"Success
+",,Success,11 February 2015,23:03
+17,Cape Canaveral,SpaceX CRS-6,"1,898 kg",LEO,MDA,Success,,Success,2 March 2015,03:50
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,SES,Success,,Success,14 April 2015,20:10
+19,Cape Canaveral,SpaceX CRS-7,"1,952 kg",LEO,Thaicom,Success,,Success,27 April 2015,23:03
+20,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,NASA,"Success
+",,Success,28 June 2015,14:21
+21,Cape Canaveral,Jason-3,553 kg,LEO,Orbcomm,Success,,Success,22 December 2015,01:29
+22,VAFB,SES-9,"5,271 kg",GTO,AsiaSat,Success,,Success,17 January 2016,18:42
+23,Cape Canaveral,SpaceX CRS-8,"3,136 kg",LEO,AsiaSat,Success,,Success,4 March 2016,23:35
+24,Cape Canaveral,JCSAT-14,"4,696 kg",GTO,NASA,Success,,Success,8 April 2016,20:43
+25,Cape Canaveral,Thaicom 8,"3,100 kg",GTO,NASA,Success,,Success,6 May 2016,05:21
+26,Cape Canaveral,ABS-2A,"3,600 kg",GTO,USAF,"Success
+",,Success,27 May 2016,21:39
+27,Cape Canaveral,SpaceX CRS-9,"2,257 kg",LEO,ABS,"Success
+",,Success,15 June 2016,14:29
+28,Cape Canaveral,JCSAT-16,"4,600 kg",GTO,NASA,"Success
+",,,18 July 2016,04:45
+29,Cape Canaveral,Iridium NEXT,"9,600 kg",Polar,,"Success
+",,,14 August 2016,05:26
+30,VAFB,SpaceX CRS-10,"2,490 kg",LEO,NASA,Failure,,,14 January 2017,17:54
+31,KSC,EchoStar 23,"5,600 kg",GTO,Orbcomm,"Success
+",,,19 February 2017,14:39
+32,KSC,SES-10,"5,300 kg",GTO,NASA,"Success
+",,,16 March 2017,06:00
+33,KSC,NROL-76,C,LEO,SES,"Success
+",,,30 March 2017,22:27
+34,KSC,Inmarsat-5 F4,"6,070 kg",GTO,NASA,Success,,,1 May 2017,11:15
+35,KSC,SpaceX CRS-11,"2,708 kg",LEO,SKY Perfect JSAT Group,"Success
+",,,15 May 2017,23:21
+36,KSC,BulgariaSat-1,"3,669 kg",GTO,Thaicom,"Success
+",,,3 June 2017,21:07
+37,KSC,Iridium NEXT,"9,600 kg",LEO,ABS,"Success
+",,,23 June 2017,19:10
+38,VAFB,Intelsat 35e,"6,761 kg",GTO,NASA,"Success
+",,,25 June 2017,20:25
+39,KSC,SpaceX CRS-12,"3,310 kg",LEO,SKY Perfect JSAT Group,"Success
+",,,5 July 2017,23:38
+40,KSC,Formosat-5,475 kg,SSO,Iridium Communications,"Success
+",,,14 August 2017,16:31
+41,VAFB,Boeing X-37B,"4,990 kg",LEO,NASA,"Success
+",,,24 August 2017,18:51
+42,KSC,Iridium NEXT,"9,600 kg",Polar,EchoStar,"Success
+",,,7 September 2017,14:00
+43,VAFB,SES-11,"5,200 kg",GTO,SES,Success,,,9 October 2017,12:37
+44,KSC,Koreasat 5A,"3,500 kg",GTO,NRO,"Success
+",,,11 October 2017,22:53:00
+45,KSC,SpaceX CRS-13,"2,205 kg",LEO,Inmarsat,"Success
+",,,30 October 2017,19:34
+46,Cape Canaveral,Iridium NEXT,"9,600 kg",Polar,NASA,"Success
+",,,15 December 2017,15:36
+47,VAFB,Zuma,C,LEO,Bulsatcom,"Success
+",,,23 December 2017,01:27
+48,CCAFS,GovSat-1,"4,230 kg",GTO,Iridium Communications,"Success
+",,,8 January 2018,01:00
+49,CCAFS,Paz,"2,150 kg",SSO,Intelsat,"Success
+",,,31 January 2018,21:25
+50,VAFB,Hispasat 30W-6,"6,092 kg",GTO,NASA,"Success
+",,,22 February 2018,14:17
+51,CCAFS,Iridium NEXT,"9,600 kg",Polar,NSPO,"Success
+",,,6 March 2018,05:33
+52,VAFB,SpaceX CRS-14,"2,647 kg",LEO,USAF,"Success
+",,,30 March 2018,14:14
+53,CCAFS,Transiting Exoplanet Survey Satellite,362 kg,HEO,Iridium Communications,"Success
+",,,2 April 2018,20:30
+54,CCAFS,Bangabandhu-1,"3,600 kg",GTO,SES S.A.,"Success
+",,,18 April 2018,22:51
+55,KSC,Iridium NEXT,"6,460 kg",Polar,KT Corporation,"Success
+",,,11 May 2018,20:14
+56,VAFB,SES-12,"5,384 kg",GTO,NASA,"Success
+",,,22 May 2018,19:47
+57,CCAFS,SpaceX CRS-15,"2,697 kg",LEO,Iridium Communications,Success,,,4 June 2018,04:45
+58,CCAFS,Telstar 19V,"7,075 kg",GTO,Northrop Grumman,Success,,,29 June 2018,09:42
+59,CCAFS,Iridium NEXT,"9,600 kg",Polar,SES,Success,,,22 July 2018,05:50
+60,VAFB,Merah Putih,"5,800 kg",GTO,Hisdesat,Success,,,25 July 2018,11:39
+61,CCAFS,Telstar 18V,"7,060 kg",GTO,Hispasat,Success,,,7 August 2018,05:18
+62,CCAFS,SAOCOM 1A,"3,000 kg",SSO,Iridium Communications,Success,,,10 September 2018,04:45
+63,VAFB,Es'hail 2,"5,300 kg",GTO,NASA,Success,,,8 October 2018,02:22
+64,KSC,SSO-A,"~4,000 kg",SSO,NASA,Success,,,15 November 2018,20:46
+65,VAFB,SpaceX CRS-16,"2,500 kg",LEO,Thales-Alenia,Success,,,3 December 2018,18:34:05
+66,CCAFS,GPS III,"4,400 kg",MEO,Iridium Communications,Success,,,5 December 2018,18:16
+67,CCAFS,Iridium NEXT,"9,600 kg",Polar,SES,Success,,,23 December 2018,13:51
+68,VAFB,Nusantara Satu,"4,850 kg",GTO,NASA,Success,,,11 January 2019,15:31
+69,CCAFS,Crew Dragon Demo-1,"12,055 kg",LEO,Telesat,Success,,,22 February 2019,01:45
+70,KSC,SpaceX CRS-17,"2,495 kg",LEO,Iridium Communications,Success,,,2 March 2019,07:49
+71,CCAFS,Starlink,"13,620 kg",LEO,Telkom Indonesia,Success,,,4 May 2019,06:48
+72,CCAFS,RADARSAT Constellation,"4,200 kg",SSO,Telesat,Success,,,24 May 2019,02:30
+73,VAFB,SpaceX CRS-18,"2,268 kg",LEO,CONAE,Success,,,12 June 2019,14:17
+74,CCAFS,AMOS-17,"6,500 kg",GTO,Es'hailSat,Success,,,25 July 2019,22:01
+75,CCAFS,Starlink,"15,600 kg",LEO,Spaceflight Industries,Success,,,6 August 2019,23:23
+76,CCAFS,SpaceX CRS-19,"2,617 kg",LEO,NASA,"Success
+",,,11 November 2019,14:56
+77,CCAFS,JCSat-18,"6,956 kg",GTO,USAF,Success,,,5 December 2019,17:29
+78,CCAFS,Starlink,"15,600 kg",LEO,Iridium Communications,"Success
+",,,17 December 2019,00:10
+79,CCAFS,Crew Dragon in-flight abort test,"12,050 kg",Sub-orbital,PSN,"Success
+",,,7 January 2020,02:19:21
+80,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,,19 January 2020,15:30
+81,CCAFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,,29 January 2020,14:07
+82,CCAFS,SpaceX CRS-20,"1,977 kg",LEO,SpaceX,"Success
+",,,17 February 2020,15:05
+83,CCAFS,Starlink,"15,600 kg",LEO,Canadian Space Agency,"Success
+",,,7 March 2020,04:50
+84,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,,18 March 2020,12:16
+85,KSC,Crew Dragon Demo-2,"12,530 kg",LEO,Spacecom,"Success
+",,,22 April 2020,19:30
+86,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,,30 May 2020,19:22
+87,CCAFS,Starlink,"15,410 kg",LEO,NASA,"Success
+",,,4 June 2020,01:25
+88,CCAFS,GPS III,"4,311 kg",MEO,Sky Perfect JSAT,"Success
+",,,13 June 2020,09:21
+89,CCAFS,ANASIS-II,"5,000–6,000 kg",GTO,SpaceX,"Success
+",,,30 June 2020,20:10:46
+90,CCAFS,Starlink,"14,932 kg",LEO,NASA,"Success
+",,,20 July 2020,21:30
+91,KSC,Starlink,"~15,440 kg",LEO,SpaceX,"Success
+",,,7 August 2020,05:12
+92,CCAFS,SAOCOM 1B,"3,130 kg",SSO,SpaceX,"Success
+",,,18 August 2020,14:31
+93,CCAFS,Starlink,"15,600 kg",LEO,NASA,"Success
+",,,30 August 2020,23:18
+94,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,,3 September 2020,12:46:14
+95,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,,6 October 2020,11:29:34
+96,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,,18 October 2020,12:25:57
+97,CCAFS,GPS III,"4,311 kg",MEO,SpaceX,"Success
+",,,24 October 2020,15:31:34
+98,CCAFS,Crew-1,"~12,500 kg",LEO,SpaceX,"Success
+",,,5 November 2020,23:24:23
+99,KSC,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,U.S. Space Force,"Success
+",,,16 November 2020,00:27
+100,VAFB,Starlink,"15,600 kg",LEO,Republic of Korea Army,"Success
+",,,21 November 2020,17:17:08
+101,CCAFS,SpaceX CRS-21,"2,972 kg",LEO,SpaceX,"Success
+",,,25 November 2020,02:13
+102,KSC,SXM-7,"7,000 kg",GTO,SpaceX,"Success
+",,,6 December 2020,16:17:08
+103,CCSFS,NROL-108,C,LEO,CONAE,"Success
+",,,13 December 2020,17:30:00
+104,KSC,Türksat 5A,"3,500 kg",GTO,SpaceX,"Success
+",,,19 December 2020,14:00:00
+105,CCSFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,,8 January 2021,02:15
+106,KSC,Transporter-1,"~5,000 kg",SSO,SpaceX,"Success
+",,,20 January 2021,13:02
+1,CCSFS,Dragon Spacecraft Qualification Unit,0,LEO,SpaceX,"Success
+",,,24 January 2021,15:00
+2,CCAFS,Dragon,0,LEO,USSF,"Success
+",,,4 June 2010,18:45
+3,CCAFS,Dragon,525 kg,LEO,NASA,"Success
+",,,8 December 2010,15:43
+4,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,NASA,"Success
+",,,22 May 2012,07:44
+5,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,SpaceX,"Success
+",,,8 October 2012,00:35
+6,CCAFS,CASSIOPE,500 kg,LEO,NASA,"Success
+",,,1 March 2013,15:10
+7,VAFB,SES-8,"3,170 kg",LEO,Sirius XM,"Success
+",,,29 September 2013,16:00
+8,CCAFS,Thaicom 6,"3,325 kg",LEO,NRO,"Success
+",,,3 December 2013,22:41
+9,CCAFS,SpaceX CRS-3,"2,296 kg",LEO,Türksat,"Success
+",,,6 January 2014,22:06
+10,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,SpaceX,"Success
+",,,18 April 2014,19:25
+11,Cape Canaveral,AsiaSat 8,"4,535 kg",LEO,SpaceX,"Success
+",,,14 July 2014,15:15
+12,Cape Canaveral,AsiaSat 6,"4,428 kg",LEO,NASA,Success,,,5 August 2014,08:00
+13,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,NASA,Success,,,7 September 2014,05:00
+14,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,NASA,"Success
+",,,21 September 2014,05:52
+15,Cape Canaveral,DSCOVR,570 kg,GTO,NASA,"Success
+",,,10 January 2015,09:47
+16,Cape Canaveral,ABS-3A,"4,159 kg",LEO,MDA,Success,,,11 February 2015,23:03
+17,Cape Canaveral,SpaceX CRS-6,"1,898 kg",LEO,SES,Success,,,2 March 2015,03:50
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",LEO,Thaicom,Success,,,14 April 2015,20:10
+19,Cape Canaveral,SpaceX CRS-7,"1,952 kg",LEO,NASA,"Success
+",,,27 April 2015,23:03
+20,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,Orbcomm,Success,,,28 June 2015,14:21
+21,Cape Canaveral,Jason-3,553 kg,Polar orbit,AsiaSat,Success,,,22 December 2015,01:29
+22,VAFB,SES-9,"5,271 kg",GTO,AsiaSat,Success,,,17 January 2016,18:42
+23,Cape Canaveral,SpaceX CRS-8,"3,136 kg",GTO,NASA,Success,,,4 March 2016,23:35
+24,Cape Canaveral,JCSAT-14,"4,696 kg",LEO,NASA,Success,,,8 April 2016,20:43
+25,Cape Canaveral,Thaicom 8,"3,100 kg",LEO,USAF,"Success
+",,,6 May 2016,05:21
+26,Cape Canaveral,ABS-2A,"3,600 kg",GTO,ABS,"Success
+",,,27 May 2016,21:39
+27,Cape Canaveral,SpaceX CRS-9,"2,257 kg",GTO,NASA,"Success
+",,,15 June 2016,14:29
+28,Cape Canaveral,JCSAT-16,"4,600 kg",LEO,,"Success
+",,,18 July 2016,04:45
+29,Cape Canaveral,Iridium NEXT,"9,600 kg",LEO,NASA,Failure,,,14 August 2016,05:26
+30,VAFB,SpaceX CRS-10,"2,490 kg",HEO,Orbcomm,"Success
+",,,14 January 2017,17:54
+31,KSC,EchoStar 23,"5,600 kg",GTO,NASA,"Success
+",,,19 February 2017,14:39
+32,KSC,SES-10,"5,300 kg",LEO,SES,"Success
+",,,16 March 2017,06:00
+33,KSC,NROL-76,C,GTO,NASA,Success,,,30 March 2017,22:27
+34,KSC,Inmarsat-5 F4,"6,070 kg",LEO,SKY Perfect JSAT Group,"Success
+",,,1 May 2017,11:15
+35,KSC,SpaceX CRS-11,"2,708 kg",LEO,Thaicom,"Success
+",,,15 May 2017,23:21
+36,KSC,BulgariaSat-1,"3,669 kg",LEO,ABS,"Success
+",,,3 June 2017,21:07
+37,KSC,Iridium NEXT,"9,600 kg",GTO,NASA,"Success
+",,,23 June 2017,19:10
+38,VAFB,Intelsat 35e,"6,761 kg",LEO,SKY Perfect JSAT Group,"Success
+",,,25 June 2017,20:25
+39,KSC,SpaceX CRS-12,"3,310 kg",GTO,Iridium Communications,"Success
+",,,5 July 2017,23:38
+40,KSC,Formosat-5,475 kg,GTO,NASA,"Success
+",,,14 August 2017,16:31
+41,VAFB,Boeing X-37B,"4,990 kg",GTO,EchoStar,"Success
+",,,24 August 2017,18:51
+42,KSC,Iridium NEXT,"9,600 kg",LEO,SES,Success,,,7 September 2017,14:00
+43,VAFB,SES-11,"5,200 kg",GTO,NRO,"Success
+",,,9 October 2017,12:37
+44,KSC,Koreasat 5A,"3,500 kg",Polar,Inmarsat,"Success
+",,,11 October 2017,22:53:00
+45,KSC,SpaceX CRS-13,"2,205 kg",LEO,NASA,"Success
+",,,30 October 2017,19:34
+46,Cape Canaveral,Iridium NEXT,"9,600 kg",GTO,Bulsatcom,"Success
+",,,15 December 2017,15:36
+47,VAFB,Zuma,C,GTO,Iridium Communications,"Success
+",,,23 December 2017,01:27
+48,CCAFS,GovSat-1,"4,230 kg",LEO,Intelsat,"Success
+",,,8 January 2018,01:00
+49,CCAFS,Paz,"2,150 kg",GTO,NASA,"Success
+",,,31 January 2018,21:25
+50,VAFB,Hispasat 30W-6,"6,092 kg",LEO,NSPO,"Success
+",,,22 February 2018,14:17
+51,CCAFS,Iridium NEXT,"9,600 kg",GTO,USAF,"Success
+",,,6 March 2018,05:33
+52,VAFB,SpaceX CRS-14,"2,647 kg",LEO,Iridium Communications,"Success
+",,,30 March 2018,14:14
+53,CCAFS,Transiting Exoplanet Survey Satellite,362 kg,GTO,SES S.A.,"Success
+",,,2 April 2018,20:30
+54,CCAFS,Bangabandhu-1,"3,600 kg",LEO,KT Corporation,"Success
+",,,18 April 2018,22:51
+55,KSC,Iridium NEXT,"6,460 kg",SSO,NASA,"Success
+",,,11 May 2018,20:14
+56,VAFB,SES-12,"5,384 kg",LEO,Iridium Communications,Success,,,22 May 2018,19:47
+57,CCAFS,SpaceX CRS-15,"2,697 kg",Polar,Northrop Grumman,Success,,,4 June 2018,04:45
+58,CCAFS,Telstar 19V,"7,075 kg",GTO,SES,Success,,,29 June 2018,09:42
+59,CCAFS,Iridium NEXT,"9,600 kg",GTO,Hisdesat,Success,,,22 July 2018,05:50
+60,VAFB,Merah Putih,"5,800 kg",LEO,Hispasat,Success,,,25 July 2018,11:39
+61,CCAFS,Telstar 18V,"7,060 kg",Polar,Iridium Communications,Success,,,7 August 2018,05:18
+62,CCAFS,SAOCOM 1A,"3,000 kg",LEO,NASA,Success,,,10 September 2018,04:45
+63,VAFB,Es'hail 2,"5,300 kg",GTO,NASA,Success,,,8 October 2018,02:22
+64,KSC,SSO-A,"~4,000 kg",SSO,Thales-Alenia,Success,,,15 November 2018,20:46
+65,VAFB,SpaceX CRS-16,"2,500 kg",GTO,Iridium Communications,Success,,,3 December 2018,18:34:05
+66,CCAFS,GPS III,"4,400 kg",Polar,SES,Success,,,5 December 2018,18:16
+67,CCAFS,Iridium NEXT,"9,600 kg",LEO,NASA,Success,,,23 December 2018,13:51
+68,VAFB,Nusantara Satu,"4,850 kg",HEO,Telesat,Success,,,11 January 2019,15:31
+69,CCAFS,Crew Dragon Demo-1,"12,055 kg",GTO,Iridium Communications,Success,,,22 February 2019,01:45
+70,KSC,SpaceX CRS-17,"2,495 kg",Polar,Telkom Indonesia,Success,,,2 March 2019,07:49
+71,CCAFS,Starlink,"13,620 kg",GTO,Telesat,Success,,,4 May 2019,06:48
+72,CCAFS,RADARSAT Constellation,"4,200 kg",LEO,CONAE,Success,,,24 May 2019,02:30
+73,VAFB,SpaceX CRS-18,"2,268 kg",GTO,Es'hailSat,Success,,,12 June 2019,14:17
+74,CCAFS,AMOS-17,"6,500 kg",Polar,Spaceflight Industries,Success,,,25 July 2019,22:01
+75,CCAFS,Starlink,"15,600 kg",GTO,NASA,"Success
+",,,6 August 2019,23:23
+76,CCAFS,SpaceX CRS-19,"2,617 kg",GTO,USAF,Success,,,11 November 2019,14:56
+77,CCAFS,JCSat-18,"6,956 kg",SSO,Iridium Communications,"Success
+",,,5 December 2019,17:29
+78,CCAFS,Starlink,"15,600 kg",GTO,PSN,"Success
+",,,17 December 2019,00:10
+79,CCAFS,Crew Dragon in-flight abort test,"12,050 kg",SSO,NASA,"Success
+",,,7 January 2020,02:19:21
+80,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,,19 January 2020,15:30
+81,CCAFS,Starlink,"15,600 kg",MEO,SpaceX,"Success
+",,,29 January 2020,14:07
+82,CCAFS,SpaceX CRS-20,"1,977 kg",Polar,Canadian Space Agency,"Success
+",,,17 February 2020,15:05
+83,CCAFS,Starlink,"15,600 kg",GTO,NASA,"Success
+",,,7 March 2020,04:50
+84,KSC,Starlink,"15,600 kg",LEO,Spacecom,"Success
+",,,18 March 2020,12:16
+85,KSC,Crew Dragon Demo-2,"12,530 kg",LEO,SpaceX,"Success
+",,,22 April 2020,19:30
+86,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,,30 May 2020,19:22
+87,CCAFS,Starlink,"15,410 kg",SSO,Sky Perfect JSAT,"Success
+",,,4 June 2020,01:25
+88,CCAFS,GPS III,"4,311 kg",LEO,SpaceX,"Success
+",,,13 June 2020,09:21
+89,CCAFS,ANASIS-II,"5,000–6,000 kg",GTO,NASA,"Success
+",,,30 June 2020,20:10:46
+90,CCAFS,Starlink,"14,932 kg",LEO,SpaceX,"Success
+",,,20 July 2020,21:30
+91,KSC,Starlink,"~15,440 kg",LEO,SpaceX,"Success
+",,,7 August 2020,05:12
+92,CCAFS,SAOCOM 1B,"3,130 kg",GTO,NASA,"Success
+",,,18 August 2020,14:31
+93,CCAFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,,30 August 2020,23:18
+94,KSC,Starlink,"15,600 kg",Sub-orbital,SpaceX,"Success
+",,,3 September 2020,12:46:14
+95,KSC,Starlink,"15,600 kg",LEO,NASA,"Success
+",,,6 October 2020,11:29:34
+96,KSC,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,,18 October 2020,12:25:57
+97,CCAFS,GPS III,"4,311 kg",LEO,SpaceX,"Success
+",,,24 October 2020,15:31:34
+98,CCAFS,Crew-1,"~12,500 kg",LEO,U.S. Space Force,"Success
+",,,5 November 2020,23:24:23
+99,KSC,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,Republic of Korea Army,"Success
+",,,16 November 2020,00:27
+100,VAFB,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,,21 November 2020,17:17:08
+101,CCAFS,SpaceX CRS-21,"2,972 kg",LEO,SpaceX,"Success
+",,,25 November 2020,02:13
+102,KSC,SXM-7,"7,000 kg",LEO,CONAE,"Success
+",,,6 December 2020,16:17:08
+103,CCSFS,NROL-108,C,MEO,SpaceX,"Success
+",,,13 December 2020,17:30:00
+104,KSC,Türksat 5A,"3,500 kg",GTO,SpaceX,"Success
+",,,19 December 2020,14:00:00
+105,CCSFS,Starlink,"15,600 kg",LEO,SpaceX,"Success
+",,,8 January 2021,02:15
+106,KSC,Transporter-1,"~5,000 kg",LEO,SpaceX,"Success
+",,,20 January 2021,13:02
+1,CCSFS,Dragon Spacecraft Qualification Unit,"15,600 kg",SSO,USSF,"Success
+",,,24 January 2021,15:00
+2,CCAFS,Dragon,"15,600 kg",LEO,NASA,"Success
+",,,4 June 2010,18:45
+3,CCAFS,Dragon,"15,600 kg",LEO,NASA,"Success
+",,,8 December 2010,15:43
+4,CCAFS,SpaceX CRS-1,"15,600 kg",LEO,SpaceX,"Success
+",,,22 May 2012,07:44
+5,CCAFS,SpaceX CRS-2,"15,600 kg",LEO,NASA,"Success
+",,,8 October 2012,00:35
+6,CCAFS,CASSIOPE,"15,600 kg",MEO,Sirius XM,"Success
+",,,1 March 2013,15:10
+7,VAFB,SES-8,"15,600 kg",LEO,NRO,"Success
+",,,29 September 2013,16:00
+8,CCAFS,Thaicom 6,"~13,000 kg",LEO,Türksat,"Success
+",,,3 December 2013,22:41
+9,CCAFS,SpaceX CRS-3,"15,600 kg",LEO,SpaceX,"Success
+",,,6 January 2014,22:06
+10,Cape Canaveral,Orbcomm-OG2,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>","Success
+",,,18 April 2014,19:25
+11,Cape Canaveral,AsiaSat 8,"15,600 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,,14 July 2014,15:15
+12,Cape Canaveral,AsiaSat 6,"~14,000 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,,5 August 2014,08:00
+13,Cape Canaveral,SpaceX CRS-4,"15,600 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,,7 September 2014,05:00
+14,Cape Canaveral,SpaceX CRS-5,"3,328 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,,21 September 2014,05:52
+15,Cape Canaveral,DSCOVR,"7,000 kg",SSO,"<a href=""/wiki/Maxar_Technologies"" title=""Maxar Technologies"">MDA</a>","Success
+",,,10 January 2015,09:47
+16,Cape Canaveral,ABS-3A,0,LEO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>","Success
+",,,11 February 2015,23:03
+17,Cape Canaveral,SpaceX CRS-6,0,LEO,"<a href=""/wiki/Thaicom"" title=""Thaicom"">Thaicom</a>","Success
+",,,2 March 2015,03:50
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,525 kg,LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,,14 April 2015,20:10
+19,Cape Canaveral,SpaceX CRS-7,"4,700 kg",LEO,"<a href=""/wiki/Orbcomm"" title=""Orbcomm"">Orbcomm</a>","Success
+",,,27 April 2015,23:03
+20,Cape Canaveral,Orbcomm-OG2,"4,877 kg",LEO,"<a href=""/wiki/AsiaSat"" title=""AsiaSat"">AsiaSat</a>","Success
+",,,28 June 2015,14:21
+21,Cape Canaveral,Jason-3,500 kg,Polar orbit,"<a href=""/wiki/AsiaSat"" title=""AsiaSat"">AsiaSat</a>","Success
+",,,22 December 2015,01:29
+22,VAFB,SES-9,"3,170 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,,17 January 2016,18:42
+23,Cape Canaveral,SpaceX CRS-8,"3,325 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>","Success
+",,,4 March 2016,23:35
+24,Cape Canaveral,JCSAT-14,"2,296 kg",LEO,"<a href=""/wiki/United_States_Air_Force"" title=""United States Air Force"">USAF</a>","Success
+",,,8 April 2016,20:43
+25,Cape Canaveral,Thaicom 8,"1,316 kg",LEO,"<a class=""mw-redirect"" href=""/wiki/Asia_Broadcast_Satellite"" title=""Asia Broadcast Satellite"">ABS</a>","Success
+",,,6 May 2016,05:21
+26,Cape Canaveral,ABS-2A,"4,535 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,27 May 2016,21:39
+27,Cape Canaveral,SpaceX CRS-9,"4,428 kg",GTO,"<a href=""/wiki/Turkmenistan_National_Space_Agency"" title=""Turkmenistan National Space Agency"">Turkmenistan National<br/>Space Agency</a>",,,,15 June 2016,14:29
+28,Cape Canaveral,JCSAT-16,"2,216 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,18 July 2016,04:45
+29,Cape Canaveral,Iridium NEXT,"2,395 kg",LEO,"<a href=""/wiki/Orbcomm"" title=""Orbcomm"">Orbcomm</a>",,,,14 August 2016,05:26
+30,VAFB,SpaceX CRS-10,570 kg,HEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,14 January 2017,17:54
+31,KSC,EchoStar 23,"4,159 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>",,,,19 February 2017,14:39
+32,KSC,SES-10,"1,898 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,16 March 2017,06:00
+33,KSC,NROL-76,"4,707 kg",GTO,"<a href=""/wiki/SKY_Perfect_JSAT"" title=""SKY Perfect JSAT"">SKY Perfect JSAT Group</a>",,,,30 March 2017,22:27
+34,KSC,Inmarsat-5 F4,"1,952 kg",LEO,"<a href=""/wiki/Thaicom"" title=""Thaicom"">Thaicom</a>",,,,1 May 2017,11:15
+35,KSC,SpaceX CRS-11,"2,034 kg",LEO,"<a class=""mw-redirect"" href=""/wiki/Asia_Broadcast_Satellite"" title=""Asia Broadcast Satellite"">ABS</a>",,,,15 May 2017,23:21
+36,KSC,BulgariaSat-1,553 kg,LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,3 June 2017,21:07
+37,KSC,Iridium NEXT,"5,271 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/SKY_Perfect_JSAT_Group"" title=""SKY Perfect JSAT Group"">SKY Perfect JSAT Group</a>",,,,23 June 2017,19:10
+38,VAFB,Intelsat 35e,"3,136 kg",LEO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",,,,25 June 2017,20:25
+39,KSC,SpaceX CRS-12,"4,696 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,5 July 2017,23:38
+40,KSC,Formosat-5,"3,100 kg",GTO,"<a href=""/wiki/EchoStar"" title=""EchoStar"">EchoStar</a>",,,,14 August 2017,16:31
+41,VAFB,Boeing X-37B,"3,600 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>",,,,24 August 2017,18:51
+42,KSC,Iridium NEXT,"2,257 kg",LEO,"<a href=""/wiki/National_Reconnaissance_Office"" title=""National Reconnaissance Office"">NRO</a>",,,,7 September 2017,14:00
+43,VAFB,SES-11,"4,600 kg",GTO,"<a href=""/wiki/Inmarsat"" title=""Inmarsat"">Inmarsat</a>",,,,9 October 2017,12:37
+44,KSC,Koreasat 5A,"9,600 kg",Polar,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,11 October 2017,22:53:00
+45,KSC,SpaceX CRS-13,"2,490 kg",LEO,"<a href=""/wiki/Bulsatcom"" title=""Bulsatcom"">Bulsatcom</a>",,,,30 October 2017,19:34
+46,Cape Canaveral,Iridium NEXT,"5,600 kg",GTO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",,,,15 December 2017,15:36
+47,VAFB,Zuma,"5,300 kg",GTO,"<a href=""/wiki/Intelsat"" title=""Intelsat"">Intelsat</a>",,,,23 December 2017,01:27
+48,CCAFS,GovSat-1,C,LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,8 January 2018,01:00
+49,CCAFS,Paz,"6,070 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/National_Space_Organization"" title=""National Space Organization"">NSPO</a>",,,,31 January 2018,21:25
+50,VAFB,Hispasat 30W-6,"2,708 kg",LEO,"<a href=""/wiki/United_States_Air_Force"" title=""United States Air Force"">USAF</a>",,,,22 February 2018,14:17
+51,CCAFS,Iridium NEXT,"3,669 kg",GTO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",,,,6 March 2018,05:33
+52,VAFB,SpaceX CRS-14,"9,600 kg",LEO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES S.A.</a>",,,,30 March 2018,14:14
+53,CCAFS,Transiting Exoplanet Survey Satellite,"6,761 kg",GTO,"<a href=""/wiki/KT_Corporation"" title=""KT Corporation"">KT Corporation</a>",,,,2 April 2018,20:30
+54,CCAFS,Bangabandhu-1,"3,310 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,18 April 2018,22:51
+55,KSC,Iridium NEXT,475 kg,SSO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",,,,11 May 2018,20:14
+56,VAFB,SES-12,"4,990 kg",LEO,"<a href=""/wiki/Northrop_Grumman"" title=""Northrop Grumman"">Northrop Grumman</a>",,,,22 May 2018,19:47
+57,CCAFS,SpaceX CRS-15,"9,600 kg",Polar,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>",,,,4 June 2018,04:45
+58,CCAFS,Telstar 19V,"5,200 kg",GTO,"<a href=""/wiki/Hisdesat"" title=""Hisdesat"">Hisdesat</a>",,,,29 June 2018,09:42
+59,CCAFS,Iridium NEXT,"3,500 kg",GTO,"<a href=""/wiki/Hispasat"" title=""Hispasat"">Hispasat</a>",,,,22 July 2018,05:50
+60,VAFB,Merah Putih,"2,205 kg",LEO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",,,,25 July 2018,11:39
+61,CCAFS,Telstar 18V,"9,600 kg",Polar,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,7 August 2018,05:18
+62,CCAFS,SAOCOM 1A,C,LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,10 September 2018,04:45
+63,VAFB,Es'hail 2,"4,230 kg",GTO,"<a href=""/wiki/Thales_Alenia_Space"" title=""Thales Alenia Space"">Thales-Alenia</a>",,,,8 October 2018,02:22
+64,KSC,SSO-A,"2,150 kg",SSO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",,,,15 November 2018,20:46
+65,VAFB,SpaceX CRS-16,"6,092 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/SES_S.A."" title=""SES S.A."">SES</a>",,,,3 December 2018,18:34:05
+66,CCAFS,GPS III,"9,600 kg",Polar,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,5 December 2018,18:16
+67,CCAFS,Iridium NEXT,"2,647 kg",LEO,"<a href=""/wiki/Telesat"" title=""Telesat"">Telesat</a>",,,,23 December 2018,13:51
+68,VAFB,Nusantara Satu,362 kg,HEO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",,,,11 January 2019,15:31
+69,CCAFS,Crew Dragon Demo-1,"3,600 kg",GTO,"<a href=""/wiki/Telkom_Indonesia"" title=""Telkom Indonesia"">Telkom Indonesia</a>",,,,22 February 2019,01:45
+70,KSC,SpaceX CRS-17,"6,460 kg",Polar,"<a href=""/wiki/Telesat"" title=""Telesat"">Telesat</a>",,,,2 March 2019,07:49
+71,CCAFS,Starlink,"5,384 kg",GTO,"<a class=""mw-redirect"" href=""/wiki/Comisi%C3%B3n_Nacional_de_Actividades_Espaciales"" title=""Comisión Nacional de Actividades Espaciales"">CONAE</a>",,,,4 May 2019,06:48
+72,CCAFS,RADARSAT Constellation,"2,697 kg",LEO,"<a href=""/wiki/Es%27hailSat"" title=""Es'hailSat"">Es'hailSat</a>",,,,24 May 2019,02:30
+73,VAFB,SpaceX CRS-18,"7,075 kg",GTO,"<a href=""/wiki/Spaceflight_Industries"" title=""Spaceflight Industries"">Spaceflight Industries</a>",,,,12 June 2019,14:17
+74,CCAFS,AMOS-17,"9,600 kg",Polar,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,25 July 2019,22:01
+75,CCAFS,Starlink,"5,800 kg",GTO,"<a href=""/wiki/United_States_Air_Force"" title=""United States Air Force"">USAF</a>",,,,6 August 2019,23:23
+76,CCAFS,SpaceX CRS-19,"7,060 kg",GTO,"<a href=""/wiki/Iridium_Communications"" title=""Iridium Communications"">Iridium Communications</a>",,,,11 November 2019,14:56
+77,CCAFS,JCSat-18,"3,000 kg",SSO,"<a href=""/wiki/PT_Pasifik_Satelit_Nusantara"" title=""PT Pasifik Satelit Nusantara"">PSN</a>",,,,5 December 2019,17:29
+78,CCAFS,Starlink,"5,300 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,17 December 2019,00:10
+79,CCAFS,Crew Dragon in-flight abort test,"~4,000 kg",SSO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,7 January 2020,02:19:21
+80,KSC,Starlink,"2,500 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,19 January 2020,15:30
+81,CCAFS,Starlink,"4,400 kg",MEO,"<a href=""/wiki/Canadian_Space_Agency"" title=""Canadian Space Agency"">Canadian Space Agency</a>",,,,29 January 2020,14:07
+82,CCAFS,SpaceX CRS-20,"9,600 kg",Polar,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,17 February 2020,15:05
+83,CCAFS,Starlink,"4,850 kg",GTO,"<a href=""/wiki/Spacecom"" title=""Spacecom"">Spacecom</a>",,,,7 March 2020,04:50
+84,KSC,Starlink,"12,055 kg",LEO,"<a href=""/wiki/Spacecom"" title=""Spacecom"">SpaceX</a>",,,,18 March 2020,12:16
+85,KSC,Crew Dragon Demo-2,"2,495 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,22 April 2020,19:30
+86,KSC,Starlink,"13,620 kg",LEO,"<a class=""mw-redirect"" href=""/wiki/SKY_Perfect_JSAT_Group"" title=""SKY Perfect JSAT Group"">Sky Perfect JSAT</a>",,,,30 May 2020,19:22
+87,CCAFS,Starlink,"4,200 kg",SSO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,4 June 2020,01:25
+88,CCAFS,GPS III,"2,268 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,13 June 2020,09:21
+89,CCAFS,ANASIS-II,"6,500 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,30 June 2020,20:10:46
+90,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,20 July 2020,21:30
+91,KSC,Starlink,"2,617 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,7 August 2020,05:12
+92,CCAFS,SAOCOM 1B,"6,956 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,18 August 2020,14:31
+93,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,30 August 2020,23:18
+94,KSC,Starlink,"12,050 kg",Sub-orbital,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,3 September 2020,12:46:14
+95,KSC,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,6 October 2020,11:29:34
+96,KSC,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,18 October 2020,12:25:57
+97,CCAFS,GPS III,"1,977 kg",LEO,"<a href=""/wiki/United_States_Space_Force"" title=""United States Space Force"">U.S. Space Force</a>",,,,24 October 2020,15:31:34
+98,CCAFS,Crew-1,"15,600 kg",LEO,"<a href=""/wiki/Republic_of_Korea_Army"" title=""Republic of Korea Army"">Republic of Korea Army</a>",,,,5 November 2020,23:24:23
+99,KSC,Sentinel-6 Michael Freilich (Jason-CS A),"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,16 November 2020,00:27
+100,VAFB,Starlink,"12,530 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,21 November 2020,17:17:08
+101,CCAFS,SpaceX CRS-21,"15,600 kg",LEO,"<a class=""mw-redirect"" href=""/wiki/CONAE"" title=""CONAE"">CONAE</a>",,,,25 November 2020,02:13
+102,KSC,SXM-7,"15,410 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,6 December 2020,16:17:08
+103,CCSFS,NROL-108,"4,311 kg",MEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,13 December 2020,17:30:00
+104,KSC,Türksat 5A,"5,000–6,000 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,19 December 2020,14:00:00
+105,CCSFS,Starlink,"14,932 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,8 January 2021,02:15
+106,KSC,Transporter-1,"~15,440 kg",LEO,"<a href=""/wiki/United_States_Space_Force"" title=""United States Space Force"">USSF</a>",,,,20 January 2021,13:02
+1,CCSFS,Starlink,"3,130 kg",SSO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,24 January 2021,15:00
+1,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,4 June 2010,18:45
+2,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,8 December 2010,15:43
+3,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,22 May 2012,07:44
+4,CCAFS,Starlink,"15,600 kg",LEO,"<a href=""/wiki/Sirius_XM"" title=""Sirius XM"">Sirius XM</a>",,,,8 October 2012,00:35
+5,CCAFS,Starlink,"4,311 kg",MEO,"<a href=""/wiki/National_Reconnaissance_Office"" title=""National Reconnaissance Office"">NRO</a>",,,,1 March 2013,15:10
+6,VAFB,Starlink,"~12,500 kg",LEO,"<a href=""/wiki/T%C3%BCrksat_(company)"" title=""Türksat (company)"">Türksat</a>",,,,29 September 2013,16:00
+7,CCAFS,Crew-2,"1,192 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,3 December 2013,22:41
+8,CCAFS,Starlink,"15,600 kg",LEO,,,,,6 January 2014,22:06
+9,Cape Canaveral,Starlink,"2,972 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,18 April 2014,19:25
+10,Cape Canaveral,Starlink,"7,000 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,14 July 2014,15:15
+11,Cape Canaveral,Starlink,C,LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,5 August 2014,08:00
+12,Cape Canaveral,Starlink,"3,500 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,7 September 2014,05:00
+13,Cape Canaveral,SpaceX CRS-22,"15,600 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,21 September 2014,05:52
+14,Cape Canaveral,SXM-8,"~5,000 kg",SSO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,10 January 2015,09:47
+15,Cape Canaveral,Dragon Spacecraft Qualification Unit,0,LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,11 February 2015,23:03
+16,Cape Canaveral,Dragon,0,LEO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,2 March 2015,03:50
+17,Cape Canaveral,Dragon,525 kg,LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,14 April 2015,20:10
+18,Cape Canaveral,SpaceX CRS-1,"4,700 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,27 April 2015,23:03
+19,Cape Canaveral,SpaceX CRS-2,"4,877 kg",LEO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,28 June 2015,14:21
+20,Cape Canaveral,CASSIOPE,500 kg,Polar orbit,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,22 December 2015,01:29
+21,VAFB,SES-8,"3,170 kg",GTO,"<a href=""/wiki/SpaceX"" title=""SpaceX"">SpaceX</a>",,,,17 January 2016,18:42
+22,Cape Canaveral,Thaicom 6,"3,325 kg",GTO,"<a href=""/wiki/NASA"" title=""NASA"">NASA</a>",,,,4 March 2016,23:35
+23,Cape Canaveral,SpaceX CRS-3,"2,296 kg",LEO,"<a href=""/wiki/Sirius_XM"" title=""Sirius XM"">Sirius XM</a>",,,,8 April 2016,20:43
+24,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,,,,,6 May 2016,05:21
+25,Cape Canaveral,AsiaSat 8,"4,535 kg",GTO,,,,,27 May 2016,21:39
+26,Cape Canaveral,AsiaSat 6,"4,428 kg",GTO,,,,,15 June 2016,14:29
+27,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,,,,,18 July 2016,04:45
+28,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,,,,,14 August 2016,05:26
+29,VAFB,DSCOVR,570 kg,HEO,,,,,14 January 2017,17:54
+30,KSC,ABS-3A,"4,159 kg",GTO,,,,,19 February 2017,14:39
+31,KSC,SpaceX CRS-6,"1,898 kg",LEO,,,,,16 March 2017,06:00
+32,KSC,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,,,,,30 March 2017,22:27
+33,KSC,SpaceX CRS-7,"1,952 kg",LEO,,,,,1 May 2017,11:15
+34,KSC,Orbcomm-OG2,"2,034 kg",LEO,,,,,15 May 2017,23:21
+35,KSC,Jason-3,553 kg,LEO,,,,,3 June 2017,21:07
+36,KSC,SES-9,"5,271 kg",GTO,,,,,23 June 2017,19:10
+37,VAFB,SpaceX CRS-8,"3,136 kg",LEO,,,,,25 June 2017,20:25
+38,KSC,JCSAT-14,"4,696 kg",GTO,,,,,5 July 2017,23:38
+39,KSC,Thaicom 8,"3,100 kg",GTO,,,,,14 August 2017,16:31
+40,VAFB,ABS-2A,"3,600 kg",GTO,,,,,24 August 2017,18:51
+41,KSC,SpaceX CRS-9,"2,257 kg",LEO,,,,,7 September 2017,14:00
+42,VAFB,JCSAT-16,"4,600 kg",GTO,,,,,9 October 2017,12:37
+43,KSC,Iridium NEXT,"9,600 kg",Polar,,,,,11 October 2017,22:53:00
+44,KSC,SpaceX CRS-10,"2,490 kg",LEO,,,,,30 October 2017,19:34
+45,Cape Canaveral,EchoStar 23,"5,600 kg",GTO,,,,,15 December 2017,15:36
+46,VAFB,SES-10,"5,300 kg",GTO,,,,,23 December 2017,01:27
+47,CCAFS,NROL-76,C,LEO,,,,,8 January 2018,01:00
+48,CCAFS,Inmarsat-5 F4,"6,070 kg",GTO,,,,,31 January 2018,21:25
+49,VAFB,SpaceX CRS-11,"2,708 kg",LEO,,,,,22 February 2018,14:17
+50,CCAFS,BulgariaSat-1,"3,669 kg",GTO,,,,,6 March 2018,05:33
+51,VAFB,Iridium NEXT,"9,600 kg",LEO,,,,,30 March 2018,14:14
+52,CCAFS,Intelsat 35e,"6,761 kg",GTO,,,,,2 April 2018,20:30
+53,CCAFS,SpaceX CRS-12,"3,310 kg",LEO,,,,,18 April 2018,22:51
+54,KSC,Formosat-5,475 kg,SSO,,,,,11 May 2018,20:14
+55,VAFB,Boeing X-37B,"4,990 kg",LEO,,,,,22 May 2018,19:47
+56,CCAFS,Iridium NEXT,"9,600 kg",Polar,,,,,4 June 2018,04:45
+57,CCAFS,SES-11,"5,200 kg",GTO,,,,,29 June 2018,09:42
+58,CCAFS,Koreasat 5A,"3,500 kg",GTO,,,,,22 July 2018,05:50
+59,VAFB,SpaceX CRS-13,"2,205 kg",LEO,,,,,25 July 2018,11:39
+60,CCAFS,Iridium NEXT,"9,600 kg",Polar,,,,,7 August 2018,05:18
+61,CCAFS,Zuma,C,LEO,,,,,10 September 2018,04:45
+62,VAFB,GovSat-1,"4,230 kg",GTO,,,,,8 October 2018,02:22
+63,KSC,Paz,"2,150 kg",SSO,,,,,15 November 2018,20:46
+64,VAFB,Hispasat 30W-6,"6,092 kg",GTO,,,,,3 December 2018,18:34:05
+65,CCAFS,Iridium NEXT,"9,600 kg",Polar,,,,,5 December 2018,18:16
+66,CCAFS,SpaceX CRS-14,"2,647 kg",LEO,,,,,23 December 2018,13:51
+67,VAFB,Transiting Exoplanet Survey Satellite,362 kg,HEO,,,,,11 January 2019,15:31
+68,CCAFS,Bangabandhu-1,"3,600 kg",GTO,,,,,22 February 2019,01:45
+69,KSC,Iridium NEXT,"6,460 kg",Polar,,,,,2 March 2019,07:49
+70,CCAFS,SES-12,"5,384 kg",GTO,,,,,4 May 2019,06:48
+71,CCAFS,SpaceX CRS-15,"2,697 kg",LEO,,,,,24 May 2019,02:30
+72,VAFB,Telstar 19V,"7,075 kg",GTO,,,,,12 June 2019,14:17
+73,CCAFS,Iridium NEXT,"9,600 kg",Polar,,,,,25 July 2019,22:01
+74,CCAFS,Merah Putih,"5,800 kg",GTO,,,,,6 August 2019,23:23
+75,CCAFS,Telstar 18V,"7,060 kg",GTO,,,,,11 November 2019,14:56
+76,CCAFS,SAOCOM 1A,"3,000 kg",SSO,,,,,5 December 2019,17:29
+77,CCAFS,Es'hail 2,"5,300 kg",GTO,,,,,17 December 2019,00:10
+78,CCAFS,SSO-A,"~4,000 kg",SSO,,,,,7 January 2020,02:19:21
+79,KSC,SpaceX CRS-16,"2,500 kg",LEO,,,,,19 January 2020,15:30
+80,CCAFS,GPS III,"4,400 kg",MEO,,,,,29 January 2020,14:07
+81,CCAFS,Iridium NEXT,"9,600 kg",Polar,,,,,17 February 2020,15:05
+82,CCAFS,Nusantara Satu,"4,850 kg",GTO,,,,,7 March 2020,04:50
+83,KSC,Crew Dragon Demo-1,"12,055 kg",LEO,,,,,18 March 2020,12:16
+84,KSC,SpaceX CRS-17,"2,495 kg",LEO,,,,,22 April 2020,19:30
+85,KSC,Starlink,"13,620 kg",LEO,,,,,30 May 2020,19:22
+86,CCAFS,RADARSAT Constellation,"4,200 kg",SSO,,,,,4 June 2020,01:25
+87,CCAFS,SpaceX CRS-18,"2,268 kg",LEO,,,,,13 June 2020,09:21
+88,CCAFS,AMOS-17,"6,500 kg",GTO,,,,,30 June 2020,20:10:46
+89,CCAFS,Starlink,"15,600 kg",LEO,,,,,20 July 2020,21:30
+90,KSC,SpaceX CRS-19,"2,617 kg",LEO,,,,,7 August 2020,05:12
+91,CCAFS,JCSat-18,"6,956 kg",GTO,,,,,18 August 2020,14:31
+92,CCAFS,Starlink,"15,600 kg",LEO,,,,,30 August 2020,23:18
+93,KSC,Crew Dragon in-flight abort test,"12,050 kg",Sub-orbital,,,,,3 September 2020,12:46:14
+94,KSC,Starlink,"15,600 kg",LEO,,,,,6 October 2020,11:29:34
+95,KSC,Starlink,"15,600 kg",LEO,,,,,18 October 2020,12:25:57
+96,CCAFS,SpaceX CRS-20,"1,977 kg",LEO,,,,,24 October 2020,15:31:34
+97,CCAFS,Starlink,"15,600 kg",LEO,,,,,5 November 2020,23:24:23
+98,KSC,Starlink,"15,600 kg",LEO,,,,,16 November 2020,00:27
+99,VAFB,Crew Dragon Demo-2,"12,530 kg",LEO,,,,,21 November 2020,17:17:08
+100,CCAFS,Starlink,"15,600 kg",LEO,,,,,25 November 2020,02:13
+101,KSC,Starlink,"15,410 kg",LEO,,,,,6 December 2020,16:17:08
+102,CCSFS,GPS III,"4,311 kg",MEO,,,,,13 December 2020,17:30:00
+103,KSC,ANASIS-II,"5,000–6,000 kg",GTO,,,,,19 December 2020,14:00:00
+104,CCSFS,Starlink,"14,932 kg",LEO,,,,,8 January 2021,02:15
+105,KSC,Starlink,"~15,440 kg",LEO,,,,,20 January 2021,13:02
+106,CCSFS,SAOCOM 1B,"3,130 kg",SSO,,,,,24 January 2021,15:00
+1,CCAFS,Starlink,"15,600 kg",LEO,,,,,4 June 2010,18:45
+2,CCAFS,Starlink,"15,600 kg",LEO,,,,,8 December 2010,15:43
+3,CCAFS,Starlink,"15,600 kg",LEO,,,,,22 May 2012,07:44
+4,CCAFS,Starlink,"15,600 kg",LEO,,,,,8 October 2012,00:35
+5,CCAFS,GPS III,"4,311 kg",MEO,,,,,1 March 2013,15:10
+6,VAFB,Crew-1,"~12,500 kg",LEO,,,,,29 September 2013,16:00
+7,CCAFS,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,,,,,3 December 2013,22:41
+8,CCAFS,Starlink,"15,600 kg",LEO,,,,,6 January 2014,22:06
+9,Cape Canaveral,SpaceX CRS-21,"2,972 kg",LEO,,,,,18 April 2014,19:25
+10,Cape Canaveral,SXM-7,"7,000 kg",GTO,,,,,14 July 2014,15:15
+11,Cape Canaveral,NROL-108,C,LEO,,,,,5 August 2014,08:00
+12,Cape Canaveral,Türksat 5A,"3,500 kg",GTO,,,,,7 September 2014,05:00
+13,Cape Canaveral,Starlink,"15,600 kg",LEO,,,,,21 September 2014,05:52
+14,Cape Canaveral,Transporter-1,"~5,000 kg",SSO,,,,,10 January 2015,09:47
+15,Cape Canaveral,Dragon Spacecraft Qualification Unit,0,LEO,,,,,11 February 2015,23:03
+16,Cape Canaveral,Dragon,0,LEO,,,,,2 March 2015,03:50
+17,Cape Canaveral,Dragon,525 kg,LEO,,,,,14 April 2015,20:10
+18,Cape Canaveral,SpaceX CRS-1,"4,700 kg",LEO,,,,,27 April 2015,23:03
+19,Cape Canaveral,SpaceX CRS-2,"4,877 kg",LEO,,,,,28 June 2015,14:21
+20,Cape Canaveral,CASSIOPE,500 kg,LEO,,,,,22 December 2015,01:29
+21,VAFB,SES-8,"3,170 kg",LEO,,,,,17 January 2016,18:42
+22,Cape Canaveral,Thaicom 6,"3,325 kg",LEO,,,,,4 March 2016,23:35
+23,Cape Canaveral,SpaceX CRS-3,"2,296 kg",LEO,,,,,8 April 2016,20:43
+24,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,,,,,6 May 2016,05:21
+25,Cape Canaveral,AsiaSat 8,"4,535 kg",LEO,,,,,27 May 2016,21:39
+26,Cape Canaveral,AsiaSat 6,"4,428 kg",LEO,,,,,15 June 2016,14:29
+27,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,,,,,18 July 2016,04:45
+28,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,,,,,14 August 2016,05:26
+29,VAFB,DSCOVR,570 kg,GTO,,,,,14 January 2017,17:54
+30,KSC,ABS-3A,"4,159 kg",,,,,,19 February 2017,14:39
+31,KSC,SpaceX CRS-6,"1,898 kg",,,,,,16 March 2017,06:00
+32,KSC,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",,,,,,30 March 2017,22:27
+33,KSC,SpaceX CRS-7,"1,952 kg",,,,,,1 May 2017,11:15
+34,KSC,Orbcomm-OG2,"2,034 kg",,,,,,15 May 2017,23:21
+35,KSC,Jason-3,553 kg,,,,,,3 June 2017,21:07
+36,KSC,SES-9,"5,271 kg",,,,,,23 June 2017,19:10
+37,VAFB,SpaceX CRS-8,"3,136 kg",,,,,,25 June 2017,20:25
+38,KSC,JCSAT-14,"4,696 kg",,,,,,5 July 2017,23:38
+39,KSC,Thaicom 8,"3,100 kg",,,,,,14 August 2017,16:31
+40,VAFB,ABS-2A,"3,600 kg",,,,,,24 August 2017,18:51
+41,KSC,SpaceX CRS-9,"2,257 kg",,,,,,7 September 2017,14:00
+42,VAFB,JCSAT-16,"4,600 kg",,,,,,9 October 2017,12:37
+43,KSC,Iridium NEXT,"9,600 kg",,,,,,11 October 2017,22:53:00
+44,KSC,SpaceX CRS-10,"2,490 kg",,,,,,30 October 2017,19:34
+45,Cape Canaveral,EchoStar 23,"5,600 kg",,,,,,15 December 2017,15:36
+46,VAFB,SES-10,"5,300 kg",,,,,,23 December 2017,01:27
+47,CCAFS,NROL-76,C,,,,,,8 January 2018,01:00
+48,CCAFS,Inmarsat-5 F4,"6,070 kg",,,,,,31 January 2018,21:25
+49,VAFB,SpaceX CRS-11,"2,708 kg",,,,,,22 February 2018,14:17
+50,CCAFS,BulgariaSat-1,"3,669 kg",,,,,,6 March 2018,05:33
+51,VAFB,Iridium NEXT,"9,600 kg",,,,,,30 March 2018,14:14
+52,CCAFS,Intelsat 35e,"6,761 kg",,,,,,2 April 2018,20:30
+53,CCAFS,SpaceX CRS-12,"3,310 kg",,,,,,18 April 2018,22:51
+54,KSC,Formosat-5,475 kg,,,,,,11 May 2018,20:14
+55,VAFB,Boeing X-37B,"4,990 kg",,,,,,22 May 2018,19:47
+56,CCAFS,Iridium NEXT,"9,600 kg",,,,,,4 June 2018,04:45
+57,CCAFS,SES-11,"5,200 kg",,,,,,29 June 2018,09:42
+58,CCAFS,Koreasat 5A,"3,500 kg",,,,,,22 July 2018,05:50
+59,VAFB,SpaceX CRS-13,"2,205 kg",,,,,,25 July 2018,11:39
+60,CCAFS,Iridium NEXT,"9,600 kg",,,,,,7 August 2018,05:18
+61,CCAFS,Zuma,C,,,,,,10 September 2018,04:45
+62,VAFB,GovSat-1,"4,230 kg",,,,,,8 October 2018,02:22
+63,KSC,Paz,"2,150 kg",,,,,,15 November 2018,20:46
+64,VAFB,Hispasat 30W-6,"6,092 kg",,,,,,3 December 2018,18:34:05
+65,CCAFS,Iridium NEXT,"9,600 kg",,,,,,5 December 2018,18:16
+66,CCAFS,SpaceX CRS-14,"2,647 kg",,,,,,23 December 2018,13:51
+67,VAFB,Transiting Exoplanet Survey Satellite,362 kg,,,,,,11 January 2019,15:31
+68,CCAFS,Bangabandhu-1,"3,600 kg",,,,,,22 February 2019,01:45
+69,KSC,Iridium NEXT,"6,460 kg",,,,,,2 March 2019,07:49
+70,CCAFS,SES-12,"5,384 kg",,,,,,4 May 2019,06:48
+71,CCAFS,SpaceX CRS-15,"2,697 kg",,,,,,24 May 2019,02:30
+72,VAFB,Telstar 19V,"7,075 kg",,,,,,12 June 2019,14:17
+73,CCAFS,Iridium NEXT,"9,600 kg",,,,,,25 July 2019,22:01
+74,CCAFS,Merah Putih,"5,800 kg",,,,,,6 August 2019,23:23
+75,CCAFS,Telstar 18V,"7,060 kg",,,,,,11 November 2019,14:56
+76,CCAFS,SAOCOM 1A,"3,000 kg",,,,,,5 December 2019,17:29
+77,CCAFS,Es'hail 2,"5,300 kg",,,,,,17 December 2019,00:10
+78,CCAFS,SSO-A,"~4,000 kg",,,,,,7 January 2020,02:19:21
+79,KSC,SpaceX CRS-16,"2,500 kg",,,,,,19 January 2020,15:30
+80,CCAFS,GPS III,"4,400 kg",,,,,,29 January 2020,14:07
+81,CCAFS,Iridium NEXT,"9,600 kg",,,,,,17 February 2020,15:05
+82,CCAFS,Nusantara Satu,"4,850 kg",,,,,,7 March 2020,04:50
+83,KSC,Crew Dragon Demo-1,"12,055 kg",,,,,,18 March 2020,12:16
+84,KSC,SpaceX CRS-17,"2,495 kg",,,,,,22 April 2020,19:30
+85,KSC,Starlink,"13,620 kg",,,,,,30 May 2020,19:22
+86,CCAFS,RADARSAT Constellation,"4,200 kg",,,,,,4 June 2020,01:25
+87,CCAFS,SpaceX CRS-18,"2,268 kg",,,,,,13 June 2020,09:21
+88,CCAFS,AMOS-17,"6,500 kg",,,,,,30 June 2020,20:10:46
+89,CCAFS,Starlink,"15,600 kg",,,,,,20 July 2020,21:30
+90,KSC,SpaceX CRS-19,"2,617 kg",,,,,,7 August 2020,05:12
+91,CCAFS,JCSat-18,"6,956 kg",,,,,,18 August 2020,14:31
+92,CCAFS,Starlink,"15,600 kg",,,,,,30 August 2020,23:18
+93,KSC,Crew Dragon in-flight abort test,"12,050 kg",,,,,,3 September 2020,12:46:14
+94,KSC,Starlink,"15,600 kg",,,,,,6 October 2020,11:29:34
+95,KSC,Starlink,"15,600 kg",,,,,,18 October 2020,12:25:57
+96,CCAFS,SpaceX CRS-20,"1,977 kg",,,,,,24 October 2020,15:31:34
+97,CCAFS,Starlink,"15,600 kg",,,,,,5 November 2020,23:24:23
+98,KSC,Starlink,"15,600 kg",,,,,,16 November 2020,00:27
+99,VAFB,Crew Dragon Demo-2,"12,530 kg",,,,,,21 November 2020,17:17:08
+100,CCAFS,Starlink,"15,600 kg",,,,,,25 November 2020,02:13
+101,KSC,Starlink,"15,410 kg",,,,,,6 December 2020,16:17:08
+102,CCSFS,GPS III,"4,311 kg",,,,,,13 December 2020,17:30:00
+103,KSC,ANASIS-II,"5,000–6,000 kg",,,,,,19 December 2020,14:00:00
+104,CCSFS,Starlink,"14,932 kg",,,,,,8 January 2021,02:15
+105,KSC,Starlink,"~15,440 kg",,,,,,20 January 2021,13:02
+106,CCSFS,SAOCOM 1B,"3,130 kg",,,,,,24 January 2021,15:00
+1,CCSFS,Starlink,"15,600 kg",,,,,,4 June 2010,18:45
+2,CCSFS,Starlink,"15,600 kg",,,,,,8 December 2010,15:43
+3,KSC,Starlink,"15,600 kg",,,,,,22 May 2012,07:44
+4,CCSFS,Starlink,"15,600 kg",,,,,,8 October 2012,00:35
+5,KSC,GPS III,"4,311 kg",,,,,,1 March 2013,15:10
+6,CCSFS,Crew-1,"~12,500 kg",,,,,,29 September 2013,16:00
+7,CCSFS,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",,,,,,3 December 2013,22:41
+8,KSC,Starlink,"15,600 kg",,,,,,6 January 2014,22:06
+9,CCSFS,SpaceX CRS-21,"2,972 kg",,,,,,18 April 2014,19:25
+10,KSC,SXM-7,"7,000 kg",,,,,,14 July 2014,15:15
+11,CCSFS,NROL-108,C,,,,,,5 August 2014,08:00
+12,KSC,Türksat 5A,"3,500 kg",,,,,,7 September 2014,05:00
+13,CCSFS,Starlink,"15,600 kg",,,,,,21 September 2014,05:52
+14,KSC,Transporter-1,"~5,000 kg",,,,,,10 January 2015,09:47
+15,CCSFS,Dragon Spacecraft Qualification Unit,"15,600 kg",,,,,,11 February 2015,23:03
+16,CCAFS,Dragon,"15,600 kg",,,,,,2 March 2015,03:50
+17,CCAFS,Dragon,"15,600 kg",,,,,,14 April 2015,20:10
+18,CCAFS,SpaceX CRS-1,"15,600 kg",,,,,,27 April 2015,23:03
+19,CCAFS,SpaceX CRS-2,"15,600 kg",,,,,,28 June 2015,14:21
+20,CCAFS,CASSIOPE,"15,600 kg",,,,,,22 December 2015,01:29
+21,VAFB,SES-8,"15,600 kg",,,,,,17 January 2016,18:42
+22,CCAFS,Thaicom 6,"~13,000 kg",,,,,,4 March 2016,23:35
+23,CCAFS,SpaceX CRS-3,"15,600 kg",,,,,,8 April 2016,20:43
+24,Cape Canaveral,Orbcomm-OG2,"15,600 kg",,,,,,6 May 2016,05:21
+25,Cape Canaveral,AsiaSat 8,"15,600 kg",,,,,,27 May 2016,21:39
+26,Cape Canaveral,AsiaSat 6,"~14,000 kg",,,,,,15 June 2016,14:29
+27,Cape Canaveral,SpaceX CRS-4,"15,600 kg",,,,,,18 July 2016,04:45
+28,Cape Canaveral,SpaceX CRS-5,"3,328 kg",,,,,,14 August 2016,05:26
+29,Cape Canaveral,DSCOVR,"7,000 kg",,,,,,14 January 2017,17:54
+30,Cape Canaveral,ABS-3A,,,,,,,19 February 2017,14:39
+31,Cape Canaveral,SpaceX CRS-6,,,,,,,16 March 2017,06:00
+32,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,,,,,,,30 March 2017,22:27
+33,Cape Canaveral,SpaceX CRS-7,,,,,,,1 May 2017,11:15
+34,Cape Canaveral,Orbcomm-OG2,,,,,,,15 May 2017,23:21
+35,Cape Canaveral,Jason-3,,,,,,,3 June 2017,21:07
+36,VAFB,SES-9,,,,,,,23 June 2017,19:10
+37,Cape Canaveral,SpaceX CRS-8,,,,,,,25 June 2017,20:25
+38,Cape Canaveral,JCSAT-14,,,,,,,5 July 2017,23:38
+39,Cape Canaveral,Thaicom 8,,,,,,,14 August 2017,16:31
+40,Cape Canaveral,ABS-2A,,,,,,,24 August 2017,18:51
+41,Cape Canaveral,SpaceX CRS-9,,,,,,,7 September 2017,14:00
+42,Cape Canaveral,JCSAT-16,,,,,,,9 October 2017,12:37
+43,Cape Canaveral,Iridium NEXT,,,,,,,11 October 2017,22:53:00
+44,VAFB,SpaceX CRS-10,,,,,,,30 October 2017,19:34
+45,KSC,EchoStar 23,,,,,,,15 December 2017,15:36
+46,KSC,SES-10,,,,,,,23 December 2017,01:27
+47,KSC,NROL-76,,,,,,,8 January 2018,01:00
+48,KSC,Inmarsat-5 F4,,,,,,,31 January 2018,21:25
+49,KSC,SpaceX CRS-11,,,,,,,22 February 2018,14:17
+50,KSC,BulgariaSat-1,,,,,,,6 March 2018,05:33
+51,KSC,Iridium NEXT,,,,,,,30 March 2018,14:14
+52,VAFB,Intelsat 35e,,,,,,,2 April 2018,20:30
+53,KSC,SpaceX CRS-12,,,,,,,18 April 2018,22:51
+54,KSC,Formosat-5,,,,,,,11 May 2018,20:14
+55,VAFB,Boeing X-37B,,,,,,,22 May 2018,19:47
+56,KSC,Iridium NEXT,,,,,,,4 June 2018,04:45
+57,VAFB,SES-11,,,,,,,29 June 2018,09:42
+58,KSC,Koreasat 5A,,,,,,,22 July 2018,05:50
+59,KSC,SpaceX CRS-13,,,,,,,25 July 2018,11:39
+60,Cape Canaveral,Iridium NEXT,,,,,,,7 August 2018,05:18
+61,VAFB,Zuma,,,,,,,10 September 2018,04:45
+62,CCAFS,GovSat-1,,,,,,,8 October 2018,02:22
+63,CCAFS,Paz,,,,,,,15 November 2018,20:46
+64,VAFB,Hispasat 30W-6,,,,,,,3 December 2018,18:34:05
+65,CCAFS,Iridium NEXT,,,,,,,5 December 2018,18:16
+66,VAFB,SpaceX CRS-14,,,,,,,23 December 2018,13:51
+67,CCAFS,Transiting Exoplanet Survey Satellite,,,,,,,11 January 2019,15:31
+68,CCAFS,Bangabandhu-1,,,,,,,22 February 2019,01:45
+69,KSC,Iridium NEXT,,,,,,,2 March 2019,07:49
+70,VAFB,SES-12,,,,,,,4 May 2019,06:48
+71,CCAFS,SpaceX CRS-15,,,,,,,24 May 2019,02:30
+72,CCAFS,Telstar 19V,,,,,,,12 June 2019,14:17
+73,CCAFS,Iridium NEXT,,,,,,,25 July 2019,22:01
+74,VAFB,Merah Putih,,,,,,,6 August 2019,23:23
+75,CCAFS,Telstar 18V,,,,,,,11 November 2019,14:56
+76,CCAFS,SAOCOM 1A,,,,,,,5 December 2019,17:29
+77,VAFB,Es'hail 2,,,,,,,17 December 2019,00:10
+78,KSC,SSO-A,,,,,,,7 January 2020,02:19:21
+79,VAFB,SpaceX CRS-16,,,,,,,19 January 2020,15:30
+80,CCAFS,GPS III,,,,,,,29 January 2020,14:07
+81,CCAFS,Iridium NEXT,,,,,,,17 February 2020,15:05
+82,VAFB,Nusantara Satu,,,,,,,7 March 2020,04:50
+83,CCAFS,Crew Dragon Demo-1,,,,,,,18 March 2020,12:16
+84,KSC,SpaceX CRS-17,,,,,,,22 April 2020,19:30
+85,CCAFS,Starlink,,,,,,,30 May 2020,19:22
+86,CCAFS,RADARSAT Constellation,,,,,,,4 June 2020,01:25
+87,VAFB,SpaceX CRS-18,,,,,,,13 June 2020,09:21
+88,CCAFS,AMOS-17,,,,,,,30 June 2020,20:10:46
+89,CCAFS,Starlink,,,,,,,20 July 2020,21:30
+90,CCAFS,SpaceX CRS-19,,,,,,,7 August 2020,05:12
+91,CCAFS,JCSat-18,,,,,,,18 August 2020,14:31
+92,CCAFS,Starlink,,,,,,,30 August 2020,23:18
+93,CCAFS,Crew Dragon in-flight abort test,,,,,,,3 September 2020,12:46:14
+94,KSC,Starlink,,,,,,,6 October 2020,11:29:34
+95,CCAFS,Starlink,,,,,,,18 October 2020,12:25:57
+96,CCAFS,SpaceX CRS-20,,,,,,,24 October 2020,15:31:34
+97,CCAFS,Starlink,,,,,,,5 November 2020,23:24:23
+98,KSC,Starlink,,,,,,,16 November 2020,00:27
+99,KSC,Crew Dragon Demo-2,,,,,,,21 November 2020,17:17:08
+100,KSC,Starlink,,,,,,,25 November 2020,02:13
+101,CCAFS,Starlink,,,,,,,6 December 2020,16:17:08
+102,CCAFS,GPS III,,,,,,,13 December 2020,17:30:00
+103,CCAFS,ANASIS-II,,,,,,,19 December 2020,14:00:00
+104,CCAFS,Starlink,,,,,,,8 January 2021,02:15
+105,KSC,Starlink,,,,,,,20 January 2021,13:02
+106,CCAFS,SAOCOM 1B,,,,,,,24 January 2021,15:00
+1,CCAFS,Starlink,,,,,,,4 June 2010,18:45
+2,KSC,Starlink,,,,,,,8 December 2010,15:43
+3,KSC,Starlink,,,,,,,22 May 2012,07:44
+4,KSC,Starlink,,,,,,,8 October 2012,00:35
+5,CCAFS,GPS III,,,,,,,1 March 2013,15:10
+6,CCAFS,Crew-1,,,,,,,29 September 2013,16:00
+7,KSC,Sentinel-6 Michael Freilich (Jason-CS A),,,,,,,3 December 2013,22:41
+8,VAFB,Starlink,,,,,,,6 January 2014,22:06
+9,CCAFS,SpaceX CRS-21,,,,,,,18 April 2014,19:25
+10,KSC,SXM-7,,,,,,,14 July 2014,15:15
+11,CCSFS,NROL-108,,,,,,,5 August 2014,08:00
+12,KSC,Türksat 5A,,,,,,,7 September 2014,05:00
+13,CCSFS,Starlink,,,,,,,21 September 2014,05:52
+14,KSC,Transporter-1,,,,,,,10 January 2015,09:47
+15,CCSFS,Starlink,,,,,,,11 February 2015,23:03
+16,CCAFS,Starlink,,,,,,,2 March 2015,03:50
+17,CCAFS,Starlink,,,,,,,14 April 2015,20:10
+18,CCAFS,Starlink,,,,,,,27 April 2015,23:03
+19,CCAFS,Starlink,,,,,,,28 June 2015,14:21
+20,CCAFS,Starlink,,,,,,,22 December 2015,01:29
+21,VAFB,Starlink,,,,,,,17 January 2016,18:42
+22,CCAFS,Crew-2,,,,,,,4 March 2016,23:35
+23,CCAFS,Starlink,,,,,,,8 April 2016,20:43
+24,Cape Canaveral,Starlink,,,,,,,6 May 2016,05:21
+25,Cape Canaveral,Starlink,,,,,,,27 May 2016,21:39
+26,Cape Canaveral,Starlink,,,,,,,15 June 2016,14:29
+27,Cape Canaveral,Starlink,,,,,,,18 July 2016,04:45
+28,Cape Canaveral,SpaceX CRS-22,,,,,,,14 August 2016,05:26
+29,Cape Canaveral,SXM-8,,,,,,,14 January 2017,17:54
+30,Cape Canaveral,,,,,,,,19 February 2017,14:39
+31,Cape Canaveral,,,,,,,,16 March 2017,06:00
+32,Cape Canaveral,,,,,,,,30 March 2017,22:27
+33,Cape Canaveral,,,,,,,,1 May 2017,11:15
+34,Cape Canaveral,,,,,,,,15 May 2017,23:21
+35,Cape Canaveral,,,,,,,,3 June 2017,21:07
+36,VAFB,,,,,,,,23 June 2017,19:10
+37,Cape Canaveral,,,,,,,,25 June 2017,20:25
+38,Cape Canaveral,,,,,,,,5 July 2017,23:38
+39,Cape Canaveral,,,,,,,,14 August 2017,16:31
+40,Cape Canaveral,,,,,,,,24 August 2017,18:51
+41,Cape Canaveral,,,,,,,,7 September 2017,14:00
+42,Cape Canaveral,,,,,,,,9 October 2017,12:37
+43,Cape Canaveral,,,,,,,,11 October 2017,22:53:00
+44,VAFB,,,,,,,,30 October 2017,19:34
+45,KSC,,,,,,,,15 December 2017,15:36
+46,KSC,,,,,,,,23 December 2017,01:27
+47,KSC,,,,,,,,8 January 2018,01:00
+48,KSC,,,,,,,,31 January 2018,21:25
+49,KSC,,,,,,,,22 February 2018,14:17
+50,KSC,,,,,,,,6 March 2018,05:33
+51,KSC,,,,,,,,30 March 2018,14:14
+52,VAFB,,,,,,,,2 April 2018,20:30
+53,KSC,,,,,,,,18 April 2018,22:51
+54,KSC,,,,,,,,11 May 2018,20:14
+55,VAFB,,,,,,,,22 May 2018,19:47
+56,KSC,,,,,,,,4 June 2018,04:45
+57,VAFB,,,,,,,,29 June 2018,09:42
+58,KSC,,,,,,,,22 July 2018,05:50
+59,KSC,,,,,,,,25 July 2018,11:39
+60,Cape Canaveral,,,,,,,,7 August 2018,05:18
+61,VAFB,,,,,,,,10 September 2018,04:45
+62,CCAFS,,,,,,,,8 October 2018,02:22
+63,CCAFS,,,,,,,,15 November 2018,20:46
+64,VAFB,,,,,,,,3 December 2018,18:34:05
+65,CCAFS,,,,,,,,5 December 2018,18:16
+66,VAFB,,,,,,,,23 December 2018,13:51
+67,CCAFS,,,,,,,,11 January 2019,15:31
+68,CCAFS,,,,,,,,22 February 2019,01:45
+69,KSC,,,,,,,,2 March 2019,07:49
+70,VAFB,,,,,,,,4 May 2019,06:48
+71,CCAFS,,,,,,,,24 May 2019,02:30
+72,CCAFS,,,,,,,,12 June 2019,14:17
+73,CCAFS,,,,,,,,25 July 2019,22:01
+74,VAFB,,,,,,,,6 August 2019,23:23
+75,CCAFS,,,,,,,,11 November 2019,14:56
+76,CCAFS,,,,,,,,5 December 2019,17:29
+77,VAFB,,,,,,,,17 December 2019,00:10
+78,KSC,,,,,,,,7 January 2020,02:19:21
+79,VAFB,,,,,,,,19 January 2020,15:30
+80,CCAFS,,,,,,,,29 January 2020,14:07
+81,CCAFS,,,,,,,,17 February 2020,15:05
+82,VAFB,,,,,,,,7 March 2020,04:50
+83,CCAFS,,,,,,,,18 March 2020,12:16
+84,KSC,,,,,,,,22 April 2020,19:30
+85,CCAFS,,,,,,,,30 May 2020,19:22
+86,CCAFS,,,,,,,,4 June 2020,01:25
+87,VAFB,,,,,,,,13 June 2020,09:21
+88,CCAFS,,,,,,,,30 June 2020,20:10:46
+89,CCAFS,,,,,,,,20 July 2020,21:30
+90,CCAFS,,,,,,,,7 August 2020,05:12
+91,CCAFS,,,,,,,,18 August 2020,14:31
+92,CCAFS,,,,,,,,30 August 2020,23:18
+93,CCAFS,,,,,,,,3 September 2020,12:46:14
+94,KSC,,,,,,,,6 October 2020,11:29:34
+95,CCAFS,,,,,,,,18 October 2020,12:25:57
+96,CCAFS,,,,,,,,24 October 2020,15:31:34
+97,CCAFS,,,,,,,,5 November 2020,23:24:23
+98,KSC,,,,,,,,16 November 2020,00:27
+99,KSC,,,,,,,,21 November 2020,17:17:08
+100,KSC,,,,,,,,25 November 2020,02:13
+101,CCAFS,,,,,,,,6 December 2020,16:17:08
+102,CCAFS,,,,,,,,13 December 2020,17:30:00
+103,CCAFS,,,,,,,,19 December 2020,14:00:00
+104,CCAFS,,,,,,,,8 January 2021,02:15
+105,KSC,,,,,,,,20 January 2021,13:02
+106,CCAFS,,,,,,,,24 January 2021,15:00
+1,CCAFS,,,,,,,,4 June 2010,06:19
+2,KSC,,,,,,,,8 December 2010,03:59:37
+3,KSC,,,,,,,,22 May 2012,08:24
+4,KSC,,,,,,,,8 October 2012,08:13:29
+5,CCAFS,,,,,,,,1 March 2013,10:01
+6,CCAFS,,,,,,,,29 September 2013,08:28
+7,KSC,,,,,,,,3 December 2013,16:34
+8,VAFB,,,,,,,,6 January 2014,9:49
+9,CCAFS,,,,,,,,18 April 2014,03:44
+10,KSC,,,,,,,,14 July 2014,19:01
+11,CCSFS,,,,,,,,5 August 2014,06:42
+12,KSC,,,,,,,,7 September 2014,22:56
+13,CCSFS,,,,,,,,21 September 2014,18:59
+14,KSC,,,,,,,,10 January 2015,17:29
+15,CCSFS,,,,,,,,11 February 2015,04:26
+16,CCAFS,,,,,,,,2 March 2015,18:45
+17,CCAFS,,,,,,,,14 April 2015,15:43
+18,CCAFS,,,,,,,,27 April 2015,07:44
+19,CCAFS,,,,,,,,28 June 2015,00:35
+20,CCAFS,,,,,,,,22 December 2015,15:10
+21,VAFB,,,,,,,,17 January 2016,16:00
+22,CCAFS,,,,,,,,4 March 2016,22:41
+23,CCAFS,,,,,,,,8 April 2016,22:06
+24,Cape Canaveral,,,,,,,,6 May 2016,19:25
+25,Cape Canaveral,,,,,,,,27 May 2016,15:15
+26,Cape Canaveral,,,,,,,,15 June 2016,08:00
+27,Cape Canaveral,,,,,,,,18 July 2016,05:00
+28,Cape Canaveral,,,,,,,,14 August 2016,05:52
+29,Cape Canaveral,,,,,,,,14 January 2017,09:47
+30,Cape Canaveral,,,,,,,,19 February 2017,23:03
+31,Cape Canaveral,,,,,,,,16 March 2017,03:50
+32,Cape Canaveral,,,,,,,,30 March 2017,20:10
+33,Cape Canaveral,,,,,,,,1 May 2017,23:03
+34,Cape Canaveral,,,,,,,,15 May 2017,14:21
+35,Cape Canaveral,,,,,,,,3 June 2017,01:29
+36,VAFB,,,,,,,,23 June 2017,18:42
+37,Cape Canaveral,,,,,,,,25 June 2017,23:35
+38,Cape Canaveral,,,,,,,,5 July 2017,20:43
+39,Cape Canaveral,,,,,,,,14 August 2017,05:21
+40,Cape Canaveral,,,,,,,,24 August 2017,21:39
+41,Cape Canaveral,,,,,,,,7 September 2017,14:29
+42,Cape Canaveral,,,,,,,,9 October 2017,04:45
+43,Cape Canaveral,,,,,,,,11 October 2017,05:26
+44,VAFB,,,,,,,,30 October 2017,17:54
+45,KSC,,,,,,,,15 December 2017,14:39
+46,KSC,,,,,,,,23 December 2017,06:00
+47,KSC,,,,,,,,8 January 2018,22:27
+48,KSC,,,,,,,,31 January 2018,11:15
+49,KSC,,,,,,,,22 February 2018,23:21
+50,KSC,,,,,,,,6 March 2018,21:07
+51,KSC,,,,,,,,30 March 2018,19:10
+52,VAFB,,,,,,,,2 April 2018,20:25
+53,KSC,,,,,,,,18 April 2018,23:38
+54,KSC,,,,,,,,11 May 2018,16:31
+55,VAFB,,,,,,,,22 May 2018,18:51
+56,KSC,,,,,,,,4 June 2018,14:00
+57,VAFB,,,,,,,,29 June 2018,12:37
+58,KSC,,,,,,,,22 July 2018,22:53:00
+59,KSC,,,,,,,,25 July 2018,19:34
+60,Cape Canaveral,,,,,,,,7 August 2018,15:36
+61,VAFB,,,,,,,,10 September 2018,01:27
+62,CCAFS,,,,,,,,8 October 2018,01:00
+63,CCAFS,,,,,,,,15 November 2018,21:25
+64,VAFB,,,,,,,,3 December 2018,14:17
+65,CCAFS,,,,,,,,5 December 2018,05:33
+66,VAFB,,,,,,,,23 December 2018,14:14
+67,CCAFS,,,,,,,,11 January 2019,20:30
+68,CCAFS,,,,,,,,22 February 2019,22:51
+69,KSC,,,,,,,,2 March 2019,20:14
+70,VAFB,,,,,,,,4 May 2019,19:47
+71,CCAFS,,,,,,,,24 May 2019,04:45
+72,CCAFS,,,,,,,,12 June 2019,09:42
+73,CCAFS,,,,,,,,25 July 2019,05:50
+74,VAFB,,,,,,,,6 August 2019,11:39
+75,CCAFS,,,,,,,,11 November 2019,05:18
+76,CCAFS,,,,,,,,5 December 2019,04:45
+77,VAFB,,,,,,,,17 December 2019,02:22
+78,KSC,,,,,,,,7 January 2020,20:46
+79,VAFB,,,,,,,,19 January 2020,18:34:05
+80,CCAFS,,,,,,,,29 January 2020,18:16
+81,CCAFS,,,,,,,,17 February 2020,13:51
+82,VAFB,,,,,,,,7 March 2020,15:31
+83,CCAFS,,,,,,,,18 March 2020,01:45
+84,KSC,,,,,,,,22 April 2020,07:49
+85,CCAFS,,,,,,,,30 May 2020,06:48
+86,CCAFS,,,,,,,,4 June 2020,02:30
+87,VAFB,,,,,,,,13 June 2020,14:17
+88,CCAFS,,,,,,,,30 June 2020,22:01
+89,CCAFS,,,,,,,,20 July 2020,23:23
+90,CCAFS,,,,,,,,7 August 2020,14:56
+91,CCAFS,,,,,,,,18 August 2020,17:29
+92,CCAFS,,,,,,,,30 August 2020,00:10
+93,CCAFS,,,,,,,,3 September 2020,02:19:21
+94,KSC,,,,,,,,6 October 2020,15:30
+95,CCAFS,,,,,,,,18 October 2020,14:07
+96,CCAFS,,,,,,,,24 October 2020,15:05
+97,CCAFS,,,,,,,,5 November 2020,04:50
+98,KSC,,,,,,,,16 November 2020,12:16
+99,KSC,,,,,,,,21 November 2020,19:30
+100,KSC,,,,,,,,25 November 2020,19:22
+101,CCAFS,,,,,,,,6 December 2020,01:25
+102,CCAFS,,,,,,,,13 December 2020,09:21
+103,CCAFS,,,,,,,,19 December 2020,20:10:46
+104,CCAFS,,,,,,,,8 January 2021,21:30
+105,KSC,,,,,,,,20 January 2021,05:12
+106,CCAFS,,,,,,,,24 January 2021,14:31
+1,CCAFS,,,,,,,,4 February 2021,23:18
+2,KSC,,,,,,,,16 February 2021,12:46:14
+3,KSC,,,,,,,,4 March 2021,11:29:34
+4,KSC,,,,,,,,11 March 2021,12:25:57
+5,CCAFS,,,,,,,,14 March 2021,15:31:34
+6,CCAFS,,,,,,,,24 March 2021,23:24:23
+7,KSC,,,,,,,,7 April 2021,00:27
+8,VAFB,,,,,,,,23 April 2021,17:17:08
+9,CCAFS,,,,,,,,29 April 2021,02:13
+10,KSC,,,,,,,,4 May 2021,16:17:08
+11,CCSFS,,,,,,,,9 May 2021,17:30:00
+12,KSC,,,,,,,,15 May 2021,14:00:00
+13,CCSFS,,,,,,,,26 May 2021,02:15
+14,KSC,,,,,,,,3 June 2021,13:02
+15,CCSFS,,,,,,,,6 June 2021,15:00
+16,CCSFS,,,,,,,,4 June 2010,18:45
+17,CCSFS,,,,,,,,8 December 2010,15:43
+18,KSC,,,,,,,,22 May 2012,07:44
+19,CCSFS,,,,,,,,8 October 2012,00:35
+20,KSC,,,,,,,,1 March 2013,15:10
+21,CCSFS,,,,,,,,29 September 2013,16:00
+22,CCSFS,,,,,,,,3 December 2013,22:41
+23,KSC,,,,,,,,6 January 2014,22:06
+24,CCSFS,,,,,,,,18 April 2014,19:25
+25,KSC,,,,,,,,14 July 2014,15:15
+26,CCSFS,,,,,,,,5 August 2014,08:00
+27,KSC,,,,,,,,7 September 2014,05:00
+28,CCSFS,,,,,,,,21 September 2014,05:52
+29,KSC,,,,,,,,10 January 2015,09:47
+30,CCSFS,,,,,,,,11 February 2015,23:03
+31,,,,,,,,,2 March 2015,03:50
+32,,,,,,,,,14 April 2015,20:10
+33,,,,,,,,,27 April 2015,23:03
+34,,,,,,,,,28 June 2015,14:21
+35,,,,,,,,,22 December 2015,01:29
+36,,,,,,,,,17 January 2016,18:42
+37,,,,,,,,,4 March 2016,23:35
+38,,,,,,,,,8 April 2016,20:43
+39,,,,,,,,,6 May 2016,05:21
+40,,,,,,,,,27 May 2016,21:39
+41,,,,,,,,,15 June 2016,14:29
+42,,,,,,,,,18 July 2016,04:45
+43,,,,,,,,,14 August 2016,05:26
+44,,,,,,,,,14 January 2017,17:54
+45,,,,,,,,,19 February 2017,14:39
+46,,,,,,,,,16 March 2017,06:00
+47,,,,,,,,,30 March 2017,22:27
+48,,,,,,,,,1 May 2017,11:15
+49,,,,,,,,,15 May 2017,23:21
+50,,,,,,,,,3 June 2017,21:07
+51,,,,,,,,,23 June 2017,19:10
+52,,,,,,,,,25 June 2017,20:25
+53,,,,,,,,,5 July 2017,23:38
+54,,,,,,,,,14 August 2017,16:31
+55,,,,,,,,,24 August 2017,18:51
+56,,,,,,,,,7 September 2017,14:00
+57,,,,,,,,,9 October 2017,12:37
+58,,,,,,,,,11 October 2017,22:53:00
+59,,,,,,,,,30 October 2017,19:34
+60,,,,,,,,,15 December 2017,15:36
+61,,,,,,,,,23 December 2017,01:27
+62,,,,,,,,,8 January 2018,01:00
+63,,,,,,,,,31 January 2018,21:25
+64,,,,,,,,,22 February 2018,14:17
+65,,,,,,,,,6 March 2018,05:33
+66,,,,,,,,,30 March 2018,14:14
+67,,,,,,,,,2 April 2018,20:30
+68,,,,,,,,,18 April 2018,22:51
+69,,,,,,,,,11 May 2018,20:14
+70,,,,,,,,,22 May 2018,19:47
+71,,,,,,,,,4 June 2018,04:45
+72,,,,,,,,,29 June 2018,09:42
+73,,,,,,,,,22 July 2018,05:50
+74,,,,,,,,,25 July 2018,11:39
+75,,,,,,,,,7 August 2018,05:18
+76,,,,,,,,,10 September 2018,04:45
+77,,,,,,,,,8 October 2018,02:22
+78,,,,,,,,,15 November 2018,20:46
+79,,,,,,,,,3 December 2018,18:34:05
+80,,,,,,,,,5 December 2018,18:16
+81,,,,,,,,,23 December 2018,13:51
+82,,,,,,,,,11 January 2019,15:31
+83,,,,,,,,,22 February 2019,01:45
+84,,,,,,,,,2 March 2019,07:49
+85,,,,,,,,,4 May 2019,06:48
+86,,,,,,,,,24 May 2019,02:30
+87,,,,,,,,,12 June 2019,14:17
+88,,,,,,,,,25 July 2019,22:01
+89,,,,,,,,,6 August 2019,23:23
+90,,,,,,,,,11 November 2019,14:56
+91,,,,,,,,,5 December 2019,17:29
+92,,,,,,,,,17 December 2019,00:10
+93,,,,,,,,,7 January 2020,02:19:21
+94,,,,,,,,,19 January 2020,15:30
+95,,,,,,,,,29 January 2020,14:07
+96,,,,,,,,,17 February 2020,15:05
+97,,,,,,,,,7 March 2020,04:50
+98,,,,,,,,,18 March 2020,12:16
+99,,,,,,,,,22 April 2020,19:30
+100,,,,,,,,,30 May 2020,19:22
+101,,,,,,,,,4 June 2020,01:25
+102,,,,,,,,,13 June 2020,09:21
+103,,,,,,,,,30 June 2020,20:10:46
+104,,,,,,,,,20 July 2020,21:30
+105,,,,,,,,,7 August 2020,05:12
+106,,,,,,,,,18 August 2020,14:31
+1,,,,,,,,,30 August 2020,23:18
+2,,,,,,,,,3 September 2020,12:46:14
+3,,,,,,,,,6 October 2020,11:29:34
+4,,,,,,,,,18 October 2020,12:25:57
+5,,,,,,,,,24 October 2020,15:31:34
+6,,,,,,,,,5 November 2020,23:24:23
+7,,,,,,,,,16 November 2020,00:27
+8,,,,,,,,,21 November 2020,17:17:08
+9,,,,,,,,,25 November 2020,02:13
+10,,,,,,,,,6 December 2020,16:17:08
+11,,,,,,,,,13 December 2020,17:30:00
+12,,,,,,,,,19 December 2020,14:00:00
+13,,,,,,,,,8 January 2021,02:15
+14,,,,,,,,,20 January 2021,13:02
+15,,,,,,,,,24 January 2021,15:00
+16,,,,,,,,,4 June 2010,18:45
+17,,,,,,,,,8 December 2010,15:43
+18,,,,,,,,,22 May 2012,07:44
+19,,,,,,,,,8 October 2012,00:35
+20,,,,,,,,,1 March 2013,15:10
+21,,,,,,,,,29 September 2013,16:00
+22,,,,,,,,,3 December 2013,22:41
+23,,,,,,,,,6 January 2014,22:06
+24,,,,,,,,,18 April 2014,19:25
+25,,,,,,,,,14 July 2014,15:15
+26,,,,,,,,,5 August 2014,08:00
+27,,,,,,,,,7 September 2014,05:00
+28,,,,,,,,,21 September 2014,05:52
+29,,,,,,,,,10 January 2015,09:47
+30,,,,,,,,,11 February 2015,23:03
+31,,,,,,,,,2 March 2015,03:50
+32,,,,,,,,,14 April 2015,20:10
+33,,,,,,,,,27 April 2015,23:03
+34,,,,,,,,,28 June 2015,14:21
+35,,,,,,,,,22 December 2015,01:29
+36,,,,,,,,,17 January 2016,18:42
+37,,,,,,,,,4 March 2016,23:35
+38,,,,,,,,,8 April 2016,20:43
+39,,,,,,,,,6 May 2016,05:21
+40,,,,,,,,,27 May 2016,21:39
+41,,,,,,,,,15 June 2016,14:29
+42,,,,,,,,,18 July 2016,04:45
+43,,,,,,,,,14 August 2016,05:26
+44,,,,,,,,,14 January 2017,17:54
+45,,,,,,,,,19 February 2017,14:39
+46,,,,,,,,,16 March 2017,06:00
+47,,,,,,,,,30 March 2017,22:27
+48,,,,,,,,,1 May 2017,11:15
+49,,,,,,,,,15 May 2017,23:21
+50,,,,,,,,,3 June 2017,21:07
+51,,,,,,,,,23 June 2017,19:10
+52,,,,,,,,,25 June 2017,20:25
+53,,,,,,,,,5 July 2017,23:38
+54,,,,,,,,,14 August 2017,16:31
+55,,,,,,,,,24 August 2017,18:51
+56,,,,,,,,,7 September 2017,14:00
+57,,,,,,,,,9 October 2017,12:37
+58,,,,,,,,,11 October 2017,22:53:00
+59,,,,,,,,,30 October 2017,19:34
+60,,,,,,,,,15 December 2017,15:36
+61,,,,,,,,,23 December 2017,01:27
+62,,,,,,,,,8 January 2018,01:00
+63,,,,,,,,,31 January 2018,21:25
+64,,,,,,,,,22 February 2018,14:17
+65,,,,,,,,,6 March 2018,05:33
+66,,,,,,,,,30 March 2018,14:14
+67,,,,,,,,,2 April 2018,20:30
+68,,,,,,,,,18 April 2018,22:51
+69,,,,,,,,,11 May 2018,20:14
+70,,,,,,,,,22 May 2018,19:47
+71,,,,,,,,,4 June 2018,04:45
+72,,,,,,,,,29 June 2018,09:42
+73,,,,,,,,,22 July 2018,05:50
+74,,,,,,,,,25 July 2018,11:39
+75,,,,,,,,,7 August 2018,05:18
+76,,,,,,,,,10 September 2018,04:45
+77,,,,,,,,,8 October 2018,02:22
+78,,,,,,,,,15 November 2018,20:46
+79,,,,,,,,,3 December 2018,18:34:05
+80,,,,,,,,,5 December 2018,18:16
+81,,,,,,,,,23 December 2018,13:51
+82,,,,,,,,,11 January 2019,15:31
+83,,,,,,,,,22 February 2019,01:45
+84,,,,,,,,,2 March 2019,07:49
+85,,,,,,,,,4 May 2019,06:48
+86,,,,,,,,,24 May 2019,02:30
+87,,,,,,,,,12 June 2019,14:17
+88,,,,,,,,,25 July 2019,22:01
+89,,,,,,,,,6 August 2019,23:23
+90,,,,,,,,,11 November 2019,14:56
+91,,,,,,,,,5 December 2019,17:29
+92,,,,,,,,,17 December 2019,00:10
+93,,,,,,,,,7 January 2020,02:19:21
+94,,,,,,,,,19 January 2020,15:30
+95,,,,,,,,,29 January 2020,14:07
+96,,,,,,,,,17 February 2020,15:05
+97,,,,,,,,,7 March 2020,04:50
+98,,,,,,,,,18 March 2020,12:16
+99,,,,,,,,,22 April 2020,19:30
+100,,,,,,,,,30 May 2020,19:22
+101,,,,,,,,,4 June 2020,01:25
+102,,,,,,,,,13 June 2020,09:21
+103,,,,,,,,,30 June 2020,20:10:46
+104,,,,,,,,,20 July 2020,21:30
+105,,,,,,,,,7 August 2020,05:12
+106,,,,,,,,,18 August 2020,14:31
+1,,,,,,,,,30 August 2020,23:18
+2,,,,,,,,,3 September 2020,12:46:14
+3,,,,,,,,,6 October 2020,11:29:34
+4,,,,,,,,,18 October 2020,12:25:57
+5,,,,,,,,,24 October 2020,15:31:34
+6,,,,,,,,,5 November 2020,23:24:23
+7,,,,,,,,,16 November 2020,00:27
+8,,,,,,,,,21 November 2020,17:17:08
+9,,,,,,,,,25 November 2020,02:13
+10,,,,,,,,,6 December 2020,16:17:08
+11,,,,,,,,,13 December 2020,17:30:00
+12,,,,,,,,,19 December 2020,14:00:00
+13,,,,,,,,,8 January 2021,02:15
+14,,,,,,,,,20 January 2021,13:02
+15,,,,,,,,,24 January 2021,15:00
+16,,,,,,,,,4 June 2010,06:19
+17,,,,,,,,,8 December 2010,03:59:37
+18,,,,,,,,,22 May 2012,08:24
+19,,,,,,,,,8 October 2012,08:13:29
+20,,,,,,,,,1 March 2013,10:01
+21,,,,,,,,,29 September 2013,08:28
+22,,,,,,,,,3 December 2013,16:34
+23,,,,,,,,,6 January 2014,9:49
+24,,,,,,,,,18 April 2014,03:44
+25,,,,,,,,,14 July 2014,19:01
+26,,,,,,,,,5 August 2014,06:42
+27,,,,,,,,,7 September 2014,22:56
+28,,,,,,,,,21 September 2014,18:59
+29,,,,,,,,,10 January 2015,17:29
+30,,,,,,,,,11 February 2015,04:26
+31,,,,,,,,,2 March 2015,
+32,,,,,,,,,14 April 2015,
+33,,,,,,,,,27 April 2015,
+34,,,,,,,,,28 June 2015,
+35,,,,,,,,,22 December 2015,
+36,,,,,,,,,17 January 2016,
+37,,,,,,,,,4 March 2016,
+38,,,,,,,,,8 April 2016,
+39,,,,,,,,,6 May 2016,
+40,,,,,,,,,27 May 2016,
+41,,,,,,,,,15 June 2016,
+42,,,,,,,,,18 July 2016,
+43,,,,,,,,,14 August 2016,
+44,,,,,,,,,14 January 2017,
+45,,,,,,,,,19 February 2017,
+46,,,,,,,,,16 March 2017,
+47,,,,,,,,,30 March 2017,
+48,,,,,,,,,1 May 2017,
+49,,,,,,,,,15 May 2017,
+50,,,,,,,,,3 June 2017,
+51,,,,,,,,,23 June 2017,
+52,,,,,,,,,25 June 2017,
+53,,,,,,,,,5 July 2017,
+54,,,,,,,,,14 August 2017,
+55,,,,,,,,,24 August 2017,
+56,,,,,,,,,7 September 2017,
+57,,,,,,,,,9 October 2017,
+58,,,,,,,,,11 October 2017,
+59,,,,,,,,,30 October 2017,
+60,,,,,,,,,15 December 2017,
+61,,,,,,,,,23 December 2017,
+62,,,,,,,,,8 January 2018,
+63,,,,,,,,,31 January 2018,
+64,,,,,,,,,22 February 2018,
+65,,,,,,,,,6 March 2018,
+66,,,,,,,,,30 March 2018,
+67,,,,,,,,,2 April 2018,
+68,,,,,,,,,18 April 2018,
+69,,,,,,,,,11 May 2018,
+70,,,,,,,,,22 May 2018,
+71,,,,,,,,,4 June 2018,
+72,,,,,,,,,29 June 2018,
+73,,,,,,,,,22 July 2018,
+74,,,,,,,,,25 July 2018,
+75,,,,,,,,,7 August 2018,
+76,,,,,,,,,10 September 2018,
+77,,,,,,,,,8 October 2018,
+78,,,,,,,,,15 November 2018,
+79,,,,,,,,,3 December 2018,
+80,,,,,,,,,5 December 2018,
+81,,,,,,,,,23 December 2018,
+82,,,,,,,,,11 January 2019,
+83,,,,,,,,,22 February 2019,
+84,,,,,,,,,2 March 2019,
+85,,,,,,,,,4 May 2019,
+86,,,,,,,,,24 May 2019,
+87,,,,,,,,,12 June 2019,
+88,,,,,,,,,25 July 2019,
+89,,,,,,,,,6 August 2019,
+90,,,,,,,,,11 November 2019,
+91,,,,,,,,,5 December 2019,
+92,,,,,,,,,17 December 2019,
+93,,,,,,,,,7 January 2020,
+94,,,,,,,,,19 January 2020,
+95,,,,,,,,,29 January 2020,
+96,,,,,,,,,17 February 2020,
+97,,,,,,,,,7 March 2020,
+98,,,,,,,,,18 March 2020,
+99,,,,,,,,,22 April 2020,
+100,,,,,,,,,30 May 2020,
+101,,,,,,,,,4 June 2020,
+102,,,,,,,,,13 June 2020,
+103,,,,,,,,,30 June 2020,
+104,,,,,,,,,20 July 2020,
+105,,,,,,,,,7 August 2020,
+106,,,,,,,,,18 August 2020,
+107,,,,,,,,,30 August 2020,
+108,,,,,,,,,3 September 2020,
+109,,,,,,,,,6 October 2020,
+110,,,,,,,,,18 October 2020,
+111,,,,,,,,,24 October 2020,
+112,,,,,,,,,5 November 2020,
+113,,,,,,,,,16 November 2020,
+114,,,,,,,,,21 November 2020,
+115,,,,,,,,,25 November 2020,
+116,,,,,,,,,6 December 2020,
+117,,,,,,,,,13 December 2020,
+118,,,,,,,,,19 December 2020,
+119,,,,,,,,,8 January 2021,
+120,,,,,,,,,20 January 2021,
+121,,,,,,,,,24 January 2021,
+1,,,,,,,,,4 February 2021,
+2,,,,,,,,,16 February 2021,
+3,,,,,,,,,4 March 2021,
+4,,,,,,,,,11 March 2021,
+5,,,,,,,,,14 March 2021,
+6,,,,,,,,,24 March 2021,
+7,,,,,,,,,7 April 2021,
+8,,,,,,,,,23 April 2021,
+9,,,,,,,,,29 April 2021,
+10,,,,,,,,,4 May 2021,
+11,,,,,,,,,9 May 2021,
+12,,,,,,,,,15 May 2021,
+13,,,,,,,,,26 May 2021,
+14,,,,,,,,,3 June 2021,
+15,,,,,,,,,6 June 2021,
+16,,,,,,,,,,
+17,,,,,,,,,,
+18,,,,,,,,,,
+19,,,,,,,,,,
+20,,,,,,,,,,
+21,,,,,,,,,,
+22,,,,,,,,,,
+23,,,,,,,,,,
+24,,,,,,,,,,
+25,,,,,,,,,,
+26,,,,,,,,,,
+27,,,,,,,,,,
+28,,,,,,,,,,
+29,,,,,,,,,,
+30,,,,,,,,,,
+31,,,,,,,,,,
+32,,,,,,,,,,
+33,,,,,,,,,,
+34,,,,,,,,,,
+35,,,,,,,,,,
+36,,,,,,,,,,
+37,,,,,,,,,,
+38,,,,,,,,,,
+39,,,,,,,,,,
+40,,,,,,,,,,
+41,,,,,,,,,,
+42,,,,,,,,,,
+43,,,,,,,,,,
+44,,,,,,,,,,
+45,,,,,,,,,,
+46,,,,,,,,,,
+47,,,,,,,,,,
+48,,,,,,,,,,
+49,,,,,,,,,,
+50,,,,,,,,,,
+51,,,,,,,,,,
+52,,,,,,,,,,
+53,,,,,,,,,,
+54,,,,,,,,,,
+55,,,,,,,,,,
+56,,,,,,,,,,
+57,,,,,,,,,,
+58,,,,,,,,,,
+59,,,,,,,,,,
+60,,,,,,,,,,
+61,,,,,,,,,,
+62,,,,,,,,,,
+63,,,,,,,,,,
+64,,,,,,,,,,
+65,,,,,,,,,,
+66,,,,,,,,,,
+67,,,,,,,,,,
+68,,,,,,,,,,
+69,,,,,,,,,,
+70,,,,,,,,,,
+71,,,,,,,,,,
+72,,,,,,,,,,
+73,,,,,,,,,,
+74,,,,,,,,,,
+75,,,,,,,,,,
+76,,,,,,,,,,
+77,,,,,,,,,,
+78,,,,,,,,,,
+79,,,,,,,,,,
+80,,,,,,,,,,
+81,,,,,,,,,,
+82,,,,,,,,,,
+83,,,,,,,,,,
+84,,,,,,,,,,
+85,,,,,,,,,,
+86,,,,,,,,,,
+87,,,,,,,,,,
+88,,,,,,,,,,
+89,,,,,,,,,,
+90,,,,,,,,,,
+91,,,,,,,,,,
+92,,,,,,,,,,
+93,,,,,,,,,,
+94,,,,,,,,,,
+95,,,,,,,,,,
+96,,,,,,,,,,
+97,,,,,,,,,,
+98,,,,,,,,,,
+99,,,,,,,,,,
+100,,,,,,,,,,
+101,,,,,,,,,,
+102,,,,,,,,,,
+103,,,,,,,,,,
+104,,,,,,,,,,
+105,,,,,,,,,,
+106,,,,,,,,,,
+1,,,,,,,,,,
+2,,,,,,,,,,
+3,,,,,,,,,,
+4,,,,,,,,,,
+5,,,,,,,,,,
+6,,,,,,,,,,
+7,,,,,,,,,,
+8,,,,,,,,,,
+9,,,,,,,,,,
+10,,,,,,,,,,
+11,,,,,,,,,,
+12,,,,,,,,,,
+13,,,,,,,,,,
+14,,,,,,,,,,
+15,,,,,,,,,,
+16,,,,,,,,,,
+17,,,,,,,,,,
+18,,,,,,,,,,
+19,,,,,,,,,,
+20,,,,,,,,,,
+21,,,,,,,,,,
+22,,,,,,,,,,
+23,,,,,,,,,,
+24,,,,,,,,,,
+25,,,,,,,,,,
+26,,,,,,,,,,
+27,,,,,,,,,,
+28,,,,,,,,,,
+29,,,,,,,,,,
+30,,,,,,,,,,
+31,,,,,,,,,,
+32,,,,,,,,,,
+33,,,,,,,,,,
+34,,,,,,,,,,
+35,,,,,,,,,,
+36,,,,,,,,,,
+37,,,,,,,,,,
+38,,,,,,,,,,
+39,,,,,,,,,,
+40,,,,,,,,,,
+41,,,,,,,,,,
+42,,,,,,,,,,
+43,,,,,,,,,,
+44,,,,,,,,,,
+45,,,,,,,,,,
+46,,,,,,,,,,
+47,,,,,,,,,,
+48,,,,,,,,,,
+49,,,,,,,,,,
+50,,,,,,,,,,
+51,,,,,,,,,,
+52,,,,,,,,,,
+53,,,,,,,,,,
+54,,,,,,,,,,
+55,,,,,,,,,,
+56,,,,,,,,,,
+57,,,,,,,,,,
+58,,,,,,,,,,
+59,,,,,,,,,,
+60,,,,,,,,,,
+61,,,,,,,,,,
+62,,,,,,,,,,
+63,,,,,,,,,,
+64,,,,,,,,,,
+65,,,,,,,,,,
+66,,,,,,,,,,
+67,,,,,,,,,,
+68,,,,,,,,,,
+69,,,,,,,,,,
+70,,,,,,,,,,
+71,,,,,,,,,,
+72,,,,,,,,,,
+73,,,,,,,,,,
+74,,,,,,,,,,
+75,,,,,,,,,,
+76,,,,,,,,,,
+77,,,,,,,,,,
+78,,,,,,,,,,
+79,,,,,,,,,,
+80,,,,,,,,,,
+81,,,,,,,,,,
+82,,,,,,,,,,
+83,,,,,,,,,,
+84,,,,,,,,,,
+85,,,,,,,,,,
+86,,,,,,,,,,
+87,,,,,,,,,,
+88,,,,,,,,,,
+89,,,,,,,,,,
+90,,,,,,,,,,
+91,,,,,,,,,,
+92,,,,,,,,,,
+93,,,,,,,,,,
+94,,,,,,,,,,
+95,,,,,,,,,,
+96,,,,,,,,,,
+97,,,,,,,,,,
+98,,,,,,,,,,
+99,,,,,,,,,,
+100,,,,,,,,,,
+101,,,,,,,,,,
+102,,,,,,,,,,
+103,,,,,,,,,,
+104,,,,,,,,,,
+105,,,,,,,,,,
+106,,,,,,,,,,
+1,,,,,,,,,,
+2,,,,,,,,,,
+3,,,,,,,,,,
+4,,,,,,,,,,
+5,,,,,,,,,,
+6,,,,,,,,,,
+7,,,,,,,,,,
+8,,,,,,,,,,
+9,,,,,,,,,,
+10,,,,,,,,,,
+11,,,,,,,,,,
+12,,,,,,,,,,
+13,,,,,,,,,,
+14,,,,,,,,,,
+15,,,,,,,,,,
+16,,,,,,,,,,
+17,,,,,,,,,,
+18,,,,,,,,,,
+19,,,,,,,,,,
+20,,,,,,,,,,
+21,,,,,,,,,,
+22,,,,,,,,,,
+23,,,,,,,,,,
+24,,,,,,,,,,
+25,,,,,,,,,,
+26,,,,,,,,,,
+27,,,,,,,,,,
+28,,,,,,,,,,
+29,,,,,,,,,,
+30,,,,,,,,,,
+31,,,,,,,,,,
+32,,,,,,,,,,
+33,,,,,,,,,,
+34,,,,,,,,,,
+35,,,,,,,,,,
+36,,,,,,,,,,
+37,,,,,,,,,,
+38,,,,,,,,,,
+39,,,,,,,,,,
+40,,,,,,,,,,
+41,,,,,,,,,,
+42,,,,,,,,,,
+43,,,,,,,,,,
+44,,,,,,,,,,
+45,,,,,,,,,,
+46,,,,,,,,,,
+47,,,,,,,,,,
+48,,,,,,,,,,
+49,,,,,,,,,,
+50,,,,,,,,,,
+51,,,,,,,,,,
+52,,,,,,,,,,
+53,,,,,,,,,,
+54,,,,,,,,,,
+55,,,,,,,,,,
+56,,,,,,,,,,
+57,,,,,,,,,,
+58,,,,,,,,,,
+59,,,,,,,,,,
+60,,,,,,,,,,
+61,,,,,,,,,,
+62,,,,,,,,,,
+63,,,,,,,,,,
+64,,,,,,,,,,
+65,,,,,,,,,,
+66,,,,,,,,,,
+67,,,,,,,,,,
+68,,,,,,,,,,
+69,,,,,,,,,,
+70,,,,,,,,,,
+71,,,,,,,,,,
+72,,,,,,,,,,
+73,,,,,,,,,,
+74,,,,,,,,,,
+75,,,,,,,,,,
+76,,,,,,,,,,
+77,,,,,,,,,,
+78,,,,,,,,,,
+79,,,,,,,,,,
+80,,,,,,,,,,
+81,,,,,,,,,,
+82,,,,,,,,,,
+83,,,,,,,,,,
+84,,,,,,,,,,
+85,,,,,,,,,,
+86,,,,,,,,,,
+87,,,,,,,,,,
+88,,,,,,,,,,
+89,,,,,,,,,,
+90,,,,,,,,,,
+91,,,,,,,,,,
+92,,,,,,,,,,
+93,,,,,,,,,,
+94,,,,,,,,,,
+95,,,,,,,,,,
+96,,,,,,,,,,
+97,,,,,,,,,,
+98,,,,,,,,,,
+99,,,,,,,,,,
+100,,,,,,,,,,
+101,,,,,,,,,,
+102,,,,,,,,,,
+103,,,,,,,,,,
+104,,,,,,,,,,
+105,,,,,,,,,,
+106,,,,,,,,,,
+107,,,,,,,,,,
+108,,,,,,,,,,
+109,,,,,,,,,,
+110,,,,,,,,,,
+111,,,,,,,,,,
+112,,,,,,,,,,
+113,,,,,,,,,,
+114,,,,,,,,,,
+115,,,,,,,,,,
+116,,,,,,,,,,
+117,,,,,,,,,,
+118,,,,,,,,,,
+119,,,,,,,,,,
+120,,,,,,,,,,
+121,,,,,,,,,,
